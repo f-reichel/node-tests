@@ -1,0 +1,1702 @@
+
+Running configuration LAN, run #0...
+Assigned runID=LAN-0-20170809-16:30:56-5747
+Setting up network "LAN"...
+Initializing...
+Initializing channel LAN.hostA.ethg$o.channel, stage 0
+Initializing channel LAN.hostB.ethg$o.channel, stage 0
+Initializing channel LAN.hostC.ethg$o.channel, stage 0
+Initializing channel LAN.hostD.ethg$o.channel, stage 0
+Initializing channel LAN.hostE.ethg$o.channel, stage 0
+Initializing channel LAN.hostF.ethg$o.channel, stage 0
+Initializing channel LAN.switch0.ethg$o[0].channel, stage 0
+Initializing channel LAN.switch0.ethg$o[1].channel, stage 0
+Initializing channel LAN.switch1.ethg$o[0].channel, stage 0
+Initializing channel LAN.switch1.ethg$o[1].channel, stage 0
+Initializing channel LAN.switch1.ethg$o[2].channel, stage 0
+Initializing channel LAN.switch1.ethg$o[3].channel, stage 0
+Initializing channel LAN.switch2.ethg$o[0].channel, stage 0
+Initializing channel LAN.switch2.ethg$o[1].channel, stage 0
+Initializing channel LAN.switch3.ethg$o[0].channel, stage 0
+Initializing channel LAN.switch3.ethg$o[1].channel, stage 0
+Initializing channel LAN.switch3.ethg$o[2].channel, stage 0
+Initializing channel LAN.switch4.ethg$o[0].channel, stage 0
+Initializing channel LAN.switch4.ethg$o[1].channel, stage 0
+Initializing channel LAN.switch4.ethg$o[2].channel, stage 0
+Initializing channel LAN.switch5.ethg$o[0].channel, stage 0
+Initializing channel LAN.switch5.ethg$o[1].channel, stage 0
+Initializing channel LAN.switch0.eth[0].mac.phys$o.channel, stage 0
+Initializing channel LAN.switch0.eth[0].encap.upperLayerOut.channel, stage 0
+Initializing channel LAN.switch0.eth[0].upperLayerIn.channel, stage 0
+Initializing channel LAN.switch0.eth[0].phys$i.channel, stage 0
+Initializing channel LAN.switch0.eth[1].mac.phys$o.channel, stage 0
+Initializing channel LAN.switch0.eth[1].encap.upperLayerOut.channel, stage 0
+Initializing channel LAN.switch0.eth[1].upperLayerIn.channel, stage 0
+Initializing channel LAN.switch0.eth[1].phys$i.channel, stage 0
+Initializing channel LAN.switch1.eth[0].mac.phys$o.channel, stage 0
+Initializing channel LAN.switch1.eth[0].encap.upperLayerOut.channel, stage 0
+Initializing channel LAN.switch1.eth[0].upperLayerIn.channel, stage 0
+Initializing channel LAN.switch1.eth[0].phys$i.channel, stage 0
+Initializing channel LAN.switch1.eth[1].mac.phys$o.channel, stage 0
+Initializing channel LAN.switch1.eth[1].encap.upperLayerOut.channel, stage 0
+Initializing channel LAN.switch1.eth[1].upperLayerIn.channel, stage 0
+Initializing channel LAN.switch1.eth[1].phys$i.channel, stage 0
+Initializing channel LAN.switch1.eth[2].mac.phys$o.channel, stage 0
+Initializing channel LAN.switch1.eth[2].encap.upperLayerOut.channel, stage 0
+Initializing channel LAN.switch1.eth[2].upperLayerIn.channel, stage 0
+Initializing channel LAN.switch1.eth[2].phys$i.channel, stage 0
+Initializing channel LAN.switch1.eth[3].mac.phys$o.channel, stage 0
+Initializing channel LAN.switch1.eth[3].encap.upperLayerOut.channel, stage 0
+Initializing channel LAN.switch1.eth[3].upperLayerIn.channel, stage 0
+Initializing channel LAN.switch1.eth[3].phys$i.channel, stage 0
+Initializing channel LAN.switch2.eth[0].mac.phys$o.channel, stage 0
+Initializing channel LAN.switch2.eth[0].encap.upperLayerOut.channel, stage 0
+Initializing channel LAN.switch2.eth[0].upperLayerIn.channel, stage 0
+Initializing channel LAN.switch2.eth[0].phys$i.channel, stage 0
+Initializing channel LAN.switch2.eth[1].mac.phys$o.channel, stage 0
+Initializing channel LAN.switch2.eth[1].encap.upperLayerOut.channel, stage 0
+Initializing channel LAN.switch2.eth[1].upperLayerIn.channel, stage 0
+Initializing channel LAN.switch2.eth[1].phys$i.channel, stage 0
+Initializing channel LAN.switch3.eth[0].mac.phys$o.channel, stage 0
+Initializing channel LAN.switch3.eth[0].encap.upperLayerOut.channel, stage 0
+Initializing channel LAN.switch3.eth[0].upperLayerIn.channel, stage 0
+Initializing channel LAN.switch3.eth[0].phys$i.channel, stage 0
+Initializing channel LAN.switch3.eth[1].mac.phys$o.channel, stage 0
+Initializing channel LAN.switch3.eth[1].encap.upperLayerOut.channel, stage 0
+Initializing channel LAN.switch3.eth[1].upperLayerIn.channel, stage 0
+Initializing channel LAN.switch3.eth[1].phys$i.channel, stage 0
+Initializing channel LAN.switch3.eth[2].mac.phys$o.channel, stage 0
+Initializing channel LAN.switch3.eth[2].encap.upperLayerOut.channel, stage 0
+Initializing channel LAN.switch3.eth[2].upperLayerIn.channel, stage 0
+Initializing channel LAN.switch3.eth[2].phys$i.channel, stage 0
+Initializing channel LAN.switch4.eth[0].mac.phys$o.channel, stage 0
+Initializing channel LAN.switch4.eth[0].encap.upperLayerOut.channel, stage 0
+Initializing channel LAN.switch4.eth[0].upperLayerIn.channel, stage 0
+Initializing channel LAN.switch4.eth[0].phys$i.channel, stage 0
+Initializing channel LAN.switch4.eth[1].mac.phys$o.channel, stage 0
+Initializing channel LAN.switch4.eth[1].encap.upperLayerOut.channel, stage 0
+Initializing channel LAN.switch4.eth[1].upperLayerIn.channel, stage 0
+Initializing channel LAN.switch4.eth[1].phys$i.channel, stage 0
+Initializing channel LAN.switch4.eth[2].mac.phys$o.channel, stage 0
+Initializing channel LAN.switch4.eth[2].encap.upperLayerOut.channel, stage 0
+Initializing channel LAN.switch4.eth[2].upperLayerIn.channel, stage 0
+Initializing channel LAN.switch4.eth[2].phys$i.channel, stage 0
+Initializing channel LAN.switch5.eth[0].mac.phys$o.channel, stage 0
+Initializing channel LAN.switch5.eth[0].encap.upperLayerOut.channel, stage 0
+Initializing channel LAN.switch5.eth[0].upperLayerIn.channel, stage 0
+Initializing channel LAN.switch5.eth[0].phys$i.channel, stage 0
+Initializing channel LAN.switch5.eth[1].mac.phys$o.channel, stage 0
+Initializing channel LAN.switch5.eth[1].encap.upperLayerOut.channel, stage 0
+Initializing channel LAN.switch5.eth[1].upperLayerIn.channel, stage 0
+Initializing channel LAN.switch5.eth[1].phys$i.channel, stage 0
+Initializing module LAN, stage 0
+Initializing module LAN.hostA, stage 0
+Initializing module LAN.hostA.cli, stage 0
+Initializing module LAN.hostA.srv, stage 0
+Initializing module LAN.hostA.llc, stage 0
+Initializing module LAN.hostA.mac, stage 0
+Initializing module LAN.hostB, stage 0
+Initializing module LAN.hostB.cli, stage 0
+Initializing module LAN.hostB.srv, stage 0
+Initializing module LAN.hostB.llc, stage 0
+Initializing module LAN.hostB.mac, stage 0
+Initializing module LAN.hostC, stage 0
+Initializing module LAN.hostC.cli, stage 0
+Initializing module LAN.hostC.srv, stage 0
+Initializing module LAN.hostC.llc, stage 0
+Initializing module LAN.hostC.mac, stage 0
+Initializing module LAN.hostD, stage 0
+Initializing module LAN.hostD.cli, stage 0
+Initializing module LAN.hostD.srv, stage 0
+Initializing module LAN.hostD.llc, stage 0
+Initializing module LAN.hostD.mac, stage 0
+Initializing module LAN.hostE, stage 0
+Initializing module LAN.hostE.cli, stage 0
+Initializing module LAN.hostE.srv, stage 0
+Initializing module LAN.hostE.llc, stage 0
+Initializing module LAN.hostE.mac, stage 0
+Initializing module LAN.hostF, stage 0
+Initializing module LAN.hostF.cli, stage 0
+Initializing module LAN.hostF.srv, stage 0
+Initializing module LAN.hostF.llc, stage 0
+Initializing module LAN.hostF.mac, stage 0
+Initializing module LAN.switch0, stage 0
+Initializing module LAN.switch0.interfaceTable, stage 0
+Initializing module LAN.switch0.macTable, stage 0
+Initializing module LAN.switch0.relayUnit, stage 0
+Initializing module LAN.switch0.eth[0], stage 0
+Initializing module LAN.switch0.eth[0].mac, stage 0
+Initializing module LAN.switch0.eth[0].encap, stage 0
+Initializing module LAN.switch0.eth[1], stage 0
+Initializing module LAN.switch0.eth[1].mac, stage 0
+Initializing module LAN.switch0.eth[1].encap, stage 0
+Initializing module LAN.switch1, stage 0
+Initializing module LAN.switch1.interfaceTable, stage 0
+Initializing module LAN.switch1.macTable, stage 0
+Initializing module LAN.switch1.relayUnit, stage 0
+Initializing module LAN.switch1.eth[0], stage 0
+Initializing module LAN.switch1.eth[0].mac, stage 0
+Initializing module LAN.switch1.eth[0].encap, stage 0
+Initializing module LAN.switch1.eth[1], stage 0
+Initializing module LAN.switch1.eth[1].mac, stage 0
+Initializing module LAN.switch1.eth[1].encap, stage 0
+Initializing module LAN.switch1.eth[2], stage 0
+Initializing module LAN.switch1.eth[2].mac, stage 0
+Initializing module LAN.switch1.eth[2].encap, stage 0
+Initializing module LAN.switch1.eth[3], stage 0
+Initializing module LAN.switch1.eth[3].mac, stage 0
+Initializing module LAN.switch1.eth[3].encap, stage 0
+Initializing module LAN.switch2, stage 0
+Initializing module LAN.switch2.interfaceTable, stage 0
+Initializing module LAN.switch2.macTable, stage 0
+Initializing module LAN.switch2.relayUnit, stage 0
+Initializing module LAN.switch2.eth[0], stage 0
+Initializing module LAN.switch2.eth[0].mac, stage 0
+Initializing module LAN.switch2.eth[0].encap, stage 0
+Initializing module LAN.switch2.eth[1], stage 0
+Initializing module LAN.switch2.eth[1].mac, stage 0
+Initializing module LAN.switch2.eth[1].encap, stage 0
+Initializing module LAN.switch3, stage 0
+Initializing module LAN.switch3.interfaceTable, stage 0
+Initializing module LAN.switch3.macTable, stage 0
+Initializing module LAN.switch3.relayUnit, stage 0
+Initializing module LAN.switch3.eth[0], stage 0
+Initializing module LAN.switch3.eth[0].mac, stage 0
+Initializing module LAN.switch3.eth[0].encap, stage 0
+Initializing module LAN.switch3.eth[1], stage 0
+Initializing module LAN.switch3.eth[1].mac, stage 0
+Initializing module LAN.switch3.eth[1].encap, stage 0
+Initializing module LAN.switch3.eth[2], stage 0
+Initializing module LAN.switch3.eth[2].mac, stage 0
+Initializing module LAN.switch3.eth[2].encap, stage 0
+Initializing module LAN.switch4, stage 0
+Initializing module LAN.switch4.interfaceTable, stage 0
+Initializing module LAN.switch4.macTable, stage 0
+Initializing module LAN.switch4.relayUnit, stage 0
+Initializing module LAN.switch4.eth[0], stage 0
+Initializing module LAN.switch4.eth[0].mac, stage 0
+Initializing module LAN.switch4.eth[0].encap, stage 0
+Initializing module LAN.switch4.eth[1], stage 0
+Initializing module LAN.switch4.eth[1].mac, stage 0
+Initializing module LAN.switch4.eth[1].encap, stage 0
+Initializing module LAN.switch4.eth[2], stage 0
+Initializing module LAN.switch4.eth[2].mac, stage 0
+Initializing module LAN.switch4.eth[2].encap, stage 0
+Initializing module LAN.switch5, stage 0
+Initializing module LAN.switch5.interfaceTable, stage 0
+Initializing module LAN.switch5.macTable, stage 0
+Initializing module LAN.switch5.relayUnit, stage 0
+Initializing module LAN.switch5.eth[0], stage 0
+Initializing module LAN.switch5.eth[0].mac, stage 0
+Initializing module LAN.switch5.eth[0].encap, stage 0
+Initializing module LAN.switch5.eth[1], stage 0
+Initializing module LAN.switch5.eth[1].mac, stage 0
+Initializing module LAN.switch5.eth[1].encap, stage 0
+Initializing module LAN.hostA.cli, stage 1
+Initializing module LAN.hostA.srv, stage 1
+Initializing module LAN.hostA.llc, stage 1
+Initializing module LAN.hostA.mac, stage 1
+Initializing module LAN.hostB.cli, stage 1
+Initializing module LAN.hostB.srv, stage 1
+Initializing module LAN.hostB.llc, stage 1
+Initializing module LAN.hostB.mac, stage 1
+Initializing module LAN.hostC.cli, stage 1
+Initializing module LAN.hostC.srv, stage 1
+Initializing module LAN.hostC.llc, stage 1
+Initializing module LAN.hostC.mac, stage 1
+Initializing module LAN.hostD.cli, stage 1
+Initializing module LAN.hostD.srv, stage 1
+Initializing module LAN.hostD.llc, stage 1
+Initializing module LAN.hostD.mac, stage 1
+Initializing module LAN.hostE.cli, stage 1
+Initializing module LAN.hostE.srv, stage 1
+Initializing module LAN.hostE.llc, stage 1
+Initializing module LAN.hostE.mac, stage 1
+Initializing module LAN.hostF.cli, stage 1
+Initializing module LAN.hostF.srv, stage 1
+Initializing module LAN.hostF.llc, stage 1
+Initializing module LAN.hostF.mac, stage 1
+Initializing module LAN.switch0.interfaceTable, stage 1
+Initializing module LAN.switch0.relayUnit, stage 1
+Initializing module LAN.switch0.eth[0].mac, stage 1
+Initializing module LAN.switch0.eth[1].mac, stage 1
+Initializing module LAN.switch1.interfaceTable, stage 1
+Initializing module LAN.switch1.relayUnit, stage 1
+Initializing module LAN.switch1.eth[0].mac, stage 1
+Initializing module LAN.switch1.eth[1].mac, stage 1
+Initializing module LAN.switch1.eth[2].mac, stage 1
+Initializing module LAN.switch1.eth[3].mac, stage 1
+Initializing module LAN.switch2.interfaceTable, stage 1
+Initializing module LAN.switch2.relayUnit, stage 1
+Initializing module LAN.switch2.eth[0].mac, stage 1
+Initializing module LAN.switch2.eth[1].mac, stage 1
+Initializing module LAN.switch3.interfaceTable, stage 1
+Initializing module LAN.switch3.relayUnit, stage 1
+Initializing module LAN.switch3.eth[0].mac, stage 1
+Initializing module LAN.switch3.eth[1].mac, stage 1
+Initializing module LAN.switch3.eth[2].mac, stage 1
+Initializing module LAN.switch4.interfaceTable, stage 1
+Initializing module LAN.switch4.relayUnit, stage 1
+Initializing module LAN.switch4.eth[0].mac, stage 1
+Initializing module LAN.switch4.eth[1].mac, stage 1
+Initializing module LAN.switch4.eth[2].mac, stage 1
+Initializing module LAN.switch5.interfaceTable, stage 1
+Initializing module LAN.switch5.relayUnit, stage 1
+Initializing module LAN.switch5.eth[0].mac, stage 1
+Initializing module LAN.switch5.eth[1].mac, stage 1
+Initializing module LAN.hostA.cli, stage 2
+Initializing module LAN.hostA.srv, stage 2
+Initializing module LAN.hostA.llc, stage 2
+Initializing module LAN.hostA.mac, stage 2
+Initializing module LAN.hostB.cli, stage 2
+Initializing module LAN.hostB.srv, stage 2
+Initializing module LAN.hostB.llc, stage 2
+Initializing module LAN.hostB.mac, stage 2
+Initializing module LAN.hostC.cli, stage 2
+Initializing module LAN.hostC.srv, stage 2
+Initializing module LAN.hostC.llc, stage 2
+Initializing module LAN.hostC.mac, stage 2
+Initializing module LAN.hostD.cli, stage 2
+Initializing module LAN.hostD.srv, stage 2
+Initializing module LAN.hostD.llc, stage 2
+Initializing module LAN.hostD.mac, stage 2
+Initializing module LAN.hostE.cli, stage 2
+Initializing module LAN.hostE.srv, stage 2
+Initializing module LAN.hostE.llc, stage 2
+Initializing module LAN.hostE.mac, stage 2
+Initializing module LAN.hostF.cli, stage 2
+Initializing module LAN.hostF.srv, stage 2
+Initializing module LAN.hostF.llc, stage 2
+Initializing module LAN.hostF.mac, stage 2
+Initializing module LAN.switch0.interfaceTable, stage 2
+Initializing module LAN.switch0.relayUnit, stage 2
+Initializing module LAN.switch0.eth[0].mac, stage 2
+Initializing module LAN.switch0.eth[1].mac, stage 2
+Initializing module LAN.switch1.interfaceTable, stage 2
+Initializing module LAN.switch1.relayUnit, stage 2
+Initializing module LAN.switch1.eth[0].mac, stage 2
+Initializing module LAN.switch1.eth[1].mac, stage 2
+Initializing module LAN.switch1.eth[2].mac, stage 2
+Initializing module LAN.switch1.eth[3].mac, stage 2
+Initializing module LAN.switch2.interfaceTable, stage 2
+Initializing module LAN.switch2.relayUnit, stage 2
+Initializing module LAN.switch2.eth[0].mac, stage 2
+Initializing module LAN.switch2.eth[1].mac, stage 2
+Initializing module LAN.switch3.interfaceTable, stage 2
+Initializing module LAN.switch3.relayUnit, stage 2
+Initializing module LAN.switch3.eth[0].mac, stage 2
+Initializing module LAN.switch3.eth[1].mac, stage 2
+Initializing module LAN.switch3.eth[2].mac, stage 2
+Initializing module LAN.switch4.interfaceTable, stage 2
+Initializing module LAN.switch4.relayUnit, stage 2
+Initializing module LAN.switch4.eth[0].mac, stage 2
+Initializing module LAN.switch4.eth[1].mac, stage 2
+Initializing module LAN.switch4.eth[2].mac, stage 2
+Initializing module LAN.switch5.interfaceTable, stage 2
+Initializing module LAN.switch5.relayUnit, stage 2
+Initializing module LAN.switch5.eth[0].mac, stage 2
+Initializing module LAN.switch5.eth[1].mac, stage 2
+Initializing module LAN.hostA.cli, stage 3
+Initializing module LAN.hostA.srv, stage 3
+Initializing module LAN.hostA.llc, stage 3
+Initializing module LAN.hostA.mac, stage 3
+Initializing module LAN.hostB.cli, stage 3
+Initializing module LAN.hostB.srv, stage 3
+Initializing module LAN.hostB.llc, stage 3
+Initializing module LAN.hostB.mac, stage 3
+Initializing module LAN.hostC.cli, stage 3
+Initializing module LAN.hostC.srv, stage 3
+Initializing module LAN.hostC.llc, stage 3
+Initializing module LAN.hostC.mac, stage 3
+Initializing module LAN.hostD.cli, stage 3
+Initializing module LAN.hostD.srv, stage 3
+Initializing module LAN.hostD.llc, stage 3
+Initializing module LAN.hostD.mac, stage 3
+Initializing module LAN.hostE.cli, stage 3
+Initializing module LAN.hostE.srv, stage 3
+Initializing module LAN.hostE.llc, stage 3
+Initializing module LAN.hostE.mac, stage 3
+Initializing module LAN.hostF.cli, stage 3
+Initializing module LAN.hostF.srv, stage 3
+Initializing module LAN.hostF.llc, stage 3
+Initializing module LAN.hostF.mac, stage 3
+Initializing module LAN.switch0.interfaceTable, stage 3
+Initializing module LAN.switch0.relayUnit, stage 3
+Initializing module LAN.switch0.eth[0].mac, stage 3
+Initializing module LAN.switch0.eth[1].mac, stage 3
+Initializing module LAN.switch1.interfaceTable, stage 3
+Initializing module LAN.switch1.relayUnit, stage 3
+Initializing module LAN.switch1.eth[0].mac, stage 3
+Initializing module LAN.switch1.eth[1].mac, stage 3
+Initializing module LAN.switch1.eth[2].mac, stage 3
+Initializing module LAN.switch1.eth[3].mac, stage 3
+Initializing module LAN.switch2.interfaceTable, stage 3
+Initializing module LAN.switch2.relayUnit, stage 3
+Initializing module LAN.switch2.eth[0].mac, stage 3
+Initializing module LAN.switch2.eth[1].mac, stage 3
+Initializing module LAN.switch3.interfaceTable, stage 3
+Initializing module LAN.switch3.relayUnit, stage 3
+Initializing module LAN.switch3.eth[0].mac, stage 3
+Initializing module LAN.switch3.eth[1].mac, stage 3
+Initializing module LAN.switch3.eth[2].mac, stage 3
+Initializing module LAN.switch4.interfaceTable, stage 3
+Initializing module LAN.switch4.relayUnit, stage 3
+Initializing module LAN.switch4.eth[0].mac, stage 3
+Initializing module LAN.switch4.eth[1].mac, stage 3
+Initializing module LAN.switch4.eth[2].mac, stage 3
+Initializing module LAN.switch5.interfaceTable, stage 3
+Initializing module LAN.switch5.relayUnit, stage 3
+Initializing module LAN.switch5.eth[0].mac, stage 3
+Initializing module LAN.switch5.eth[1].mac, stage 3
+Initializing module LAN.hostA.cli, stage 4
+Initializing module LAN.hostA.srv, stage 4
+Initializing module LAN.hostA.llc, stage 4
+Initializing module LAN.hostA.mac, stage 4
+Initializing module LAN.hostB.cli, stage 4
+Initializing module LAN.hostB.srv, stage 4
+Initializing module LAN.hostB.llc, stage 4
+Initializing module LAN.hostB.mac, stage 4
+Initializing module LAN.hostC.cli, stage 4
+Initializing module LAN.hostC.srv, stage 4
+Initializing module LAN.hostC.llc, stage 4
+Initializing module LAN.hostC.mac, stage 4
+Initializing module LAN.hostD.cli, stage 4
+Initializing module LAN.hostD.srv, stage 4
+Initializing module LAN.hostD.llc, stage 4
+Initializing module LAN.hostD.mac, stage 4
+Initializing module LAN.hostE.cli, stage 4
+Initializing module LAN.hostE.srv, stage 4
+Initializing module LAN.hostE.llc, stage 4
+Initializing module LAN.hostE.mac, stage 4
+Initializing module LAN.hostF.cli, stage 4
+Initializing module LAN.hostF.srv, stage 4
+Initializing module LAN.hostF.llc, stage 4
+Initializing module LAN.hostF.mac, stage 4
+Initializing module LAN.switch0.interfaceTable, stage 4
+Initializing module LAN.switch0.relayUnit, stage 4
+Initializing module LAN.switch0.eth[0].mac, stage 4
+Initializing module LAN.switch0.eth[1].mac, stage 4
+Initializing module LAN.switch1.interfaceTable, stage 4
+Initializing module LAN.switch1.relayUnit, stage 4
+Initializing module LAN.switch1.eth[0].mac, stage 4
+Initializing module LAN.switch1.eth[1].mac, stage 4
+Initializing module LAN.switch1.eth[2].mac, stage 4
+Initializing module LAN.switch1.eth[3].mac, stage 4
+Initializing module LAN.switch2.interfaceTable, stage 4
+Initializing module LAN.switch2.relayUnit, stage 4
+Initializing module LAN.switch2.eth[0].mac, stage 4
+Initializing module LAN.switch2.eth[1].mac, stage 4
+Initializing module LAN.switch3.interfaceTable, stage 4
+Initializing module LAN.switch3.relayUnit, stage 4
+Initializing module LAN.switch3.eth[0].mac, stage 4
+Initializing module LAN.switch3.eth[1].mac, stage 4
+Initializing module LAN.switch3.eth[2].mac, stage 4
+Initializing module LAN.switch4.interfaceTable, stage 4
+Initializing module LAN.switch4.relayUnit, stage 4
+Initializing module LAN.switch4.eth[0].mac, stage 4
+Initializing module LAN.switch4.eth[1].mac, stage 4
+Initializing module LAN.switch4.eth[2].mac, stage 4
+Initializing module LAN.switch5.interfaceTable, stage 4
+Initializing module LAN.switch5.relayUnit, stage 4
+Initializing module LAN.switch5.eth[0].mac, stage 4
+Initializing module LAN.switch5.eth[1].mac, stage 4
+Initializing module LAN.hostA.cli, stage 5
+Initializing module LAN.hostA.srv, stage 5
+Initializing module LAN.hostA.llc, stage 5
+Initializing module LAN.hostA.mac, stage 5
+Initializing module LAN.hostB.cli, stage 5
+Initializing module LAN.hostB.srv, stage 5
+Initializing module LAN.hostB.llc, stage 5
+Initializing module LAN.hostB.mac, stage 5
+Initializing module LAN.hostC.cli, stage 5
+Initializing module LAN.hostC.srv, stage 5
+Initializing module LAN.hostC.llc, stage 5
+Initializing module LAN.hostC.mac, stage 5
+Initializing module LAN.hostD.cli, stage 5
+Initializing module LAN.hostD.srv, stage 5
+Initializing module LAN.hostD.llc, stage 5
+Initializing module LAN.hostD.mac, stage 5
+Initializing module LAN.hostE.cli, stage 5
+Initializing module LAN.hostE.srv, stage 5
+Initializing module LAN.hostE.llc, stage 5
+Initializing module LAN.hostE.mac, stage 5
+Initializing module LAN.hostF.cli, stage 5
+Initializing module LAN.hostF.srv, stage 5
+Initializing module LAN.hostF.llc, stage 5
+Initializing module LAN.hostF.mac, stage 5
+Initializing module LAN.switch0.interfaceTable, stage 5
+Initializing module LAN.switch0.relayUnit, stage 5
+Initializing module LAN.switch0.eth[0].mac, stage 5
+Initializing module LAN.switch0.eth[1].mac, stage 5
+Initializing module LAN.switch1.interfaceTable, stage 5
+Initializing module LAN.switch1.relayUnit, stage 5
+Initializing module LAN.switch1.eth[0].mac, stage 5
+Initializing module LAN.switch1.eth[1].mac, stage 5
+Initializing module LAN.switch1.eth[2].mac, stage 5
+Initializing module LAN.switch1.eth[3].mac, stage 5
+Initializing module LAN.switch2.interfaceTable, stage 5
+Initializing module LAN.switch2.relayUnit, stage 5
+Initializing module LAN.switch2.eth[0].mac, stage 5
+Initializing module LAN.switch2.eth[1].mac, stage 5
+Initializing module LAN.switch3.interfaceTable, stage 5
+Initializing module LAN.switch3.relayUnit, stage 5
+Initializing module LAN.switch3.eth[0].mac, stage 5
+Initializing module LAN.switch3.eth[1].mac, stage 5
+Initializing module LAN.switch3.eth[2].mac, stage 5
+Initializing module LAN.switch4.interfaceTable, stage 5
+Initializing module LAN.switch4.relayUnit, stage 5
+Initializing module LAN.switch4.eth[0].mac, stage 5
+Initializing module LAN.switch4.eth[1].mac, stage 5
+Initializing module LAN.switch4.eth[2].mac, stage 5
+Initializing module LAN.switch5.interfaceTable, stage 5
+Initializing module LAN.switch5.relayUnit, stage 5
+Initializing module LAN.switch5.eth[0].mac, stage 5
+Initializing module LAN.switch5.eth[1].mac, stage 5
+Initializing module LAN.hostA.cli, stage 6
+Initializing module LAN.hostA.srv, stage 6
+Initializing module LAN.hostA.llc, stage 6
+Initializing module LAN.hostA.mac, stage 6
+Initializing module LAN.hostB.cli, stage 6
+Initializing module LAN.hostB.srv, stage 6
+Initializing module LAN.hostB.llc, stage 6
+Initializing module LAN.hostB.mac, stage 6
+Initializing module LAN.hostC.cli, stage 6
+Initializing module LAN.hostC.srv, stage 6
+Initializing module LAN.hostC.llc, stage 6
+Initializing module LAN.hostC.mac, stage 6
+Initializing module LAN.hostD.cli, stage 6
+Initializing module LAN.hostD.srv, stage 6
+Initializing module LAN.hostD.llc, stage 6
+Initializing module LAN.hostD.mac, stage 6
+Initializing module LAN.hostE.cli, stage 6
+Initializing module LAN.hostE.srv, stage 6
+Initializing module LAN.hostE.llc, stage 6
+Initializing module LAN.hostE.mac, stage 6
+Initializing module LAN.hostF.cli, stage 6
+Initializing module LAN.hostF.srv, stage 6
+Initializing module LAN.hostF.llc, stage 6
+Initializing module LAN.hostF.mac, stage 6
+Initializing module LAN.switch0.interfaceTable, stage 6
+Initializing module LAN.switch0.relayUnit, stage 6
+Initializing module LAN.switch0.eth[0].mac, stage 6
+Initializing module LAN.switch0.eth[1].mac, stage 6
+Initializing module LAN.switch1.interfaceTable, stage 6
+Initializing module LAN.switch1.relayUnit, stage 6
+Initializing module LAN.switch1.eth[0].mac, stage 6
+Initializing module LAN.switch1.eth[1].mac, stage 6
+Initializing module LAN.switch1.eth[2].mac, stage 6
+Initializing module LAN.switch1.eth[3].mac, stage 6
+Initializing module LAN.switch2.interfaceTable, stage 6
+Initializing module LAN.switch2.relayUnit, stage 6
+Initializing module LAN.switch2.eth[0].mac, stage 6
+Initializing module LAN.switch2.eth[1].mac, stage 6
+Initializing module LAN.switch3.interfaceTable, stage 6
+Initializing module LAN.switch3.relayUnit, stage 6
+Initializing module LAN.switch3.eth[0].mac, stage 6
+Initializing module LAN.switch3.eth[1].mac, stage 6
+Initializing module LAN.switch3.eth[2].mac, stage 6
+Initializing module LAN.switch4.interfaceTable, stage 6
+Initializing module LAN.switch4.relayUnit, stage 6
+Initializing module LAN.switch4.eth[0].mac, stage 6
+Initializing module LAN.switch4.eth[1].mac, stage 6
+Initializing module LAN.switch4.eth[2].mac, stage 6
+Initializing module LAN.switch5.interfaceTable, stage 6
+Initializing module LAN.switch5.relayUnit, stage 6
+Initializing module LAN.switch5.eth[0].mac, stage 6
+Initializing module LAN.switch5.eth[1].mac, stage 6
+Initializing module LAN.hostA.cli, stage 7
+Initializing module LAN.hostA.srv, stage 7
+Initializing module LAN.hostA.llc, stage 7
+Initializing module LAN.hostA.mac, stage 7
+Initializing module LAN.hostB.cli, stage 7
+Initializing module LAN.hostB.srv, stage 7
+Initializing module LAN.hostB.llc, stage 7
+Initializing module LAN.hostB.mac, stage 7
+Initializing module LAN.hostC.cli, stage 7
+Initializing module LAN.hostC.srv, stage 7
+Initializing module LAN.hostC.llc, stage 7
+Initializing module LAN.hostC.mac, stage 7
+Initializing module LAN.hostD.cli, stage 7
+Initializing module LAN.hostD.srv, stage 7
+Initializing module LAN.hostD.llc, stage 7
+Initializing module LAN.hostD.mac, stage 7
+Initializing module LAN.hostE.cli, stage 7
+Initializing module LAN.hostE.srv, stage 7
+Initializing module LAN.hostE.llc, stage 7
+Initializing module LAN.hostE.mac, stage 7
+Initializing module LAN.hostF.cli, stage 7
+Initializing module LAN.hostF.srv, stage 7
+Initializing module LAN.hostF.llc, stage 7
+Initializing module LAN.hostF.mac, stage 7
+Initializing module LAN.switch0.interfaceTable, stage 7
+Initializing module LAN.switch0.relayUnit, stage 7
+Initializing module LAN.switch0.eth[0].mac, stage 7
+Initializing module LAN.switch0.eth[1].mac, stage 7
+Initializing module LAN.switch1.interfaceTable, stage 7
+Initializing module LAN.switch1.relayUnit, stage 7
+Initializing module LAN.switch1.eth[0].mac, stage 7
+Initializing module LAN.switch1.eth[1].mac, stage 7
+Initializing module LAN.switch1.eth[2].mac, stage 7
+Initializing module LAN.switch1.eth[3].mac, stage 7
+Initializing module LAN.switch2.interfaceTable, stage 7
+Initializing module LAN.switch2.relayUnit, stage 7
+Initializing module LAN.switch2.eth[0].mac, stage 7
+Initializing module LAN.switch2.eth[1].mac, stage 7
+Initializing module LAN.switch3.interfaceTable, stage 7
+Initializing module LAN.switch3.relayUnit, stage 7
+Initializing module LAN.switch3.eth[0].mac, stage 7
+Initializing module LAN.switch3.eth[1].mac, stage 7
+Initializing module LAN.switch3.eth[2].mac, stage 7
+Initializing module LAN.switch4.interfaceTable, stage 7
+Initializing module LAN.switch4.relayUnit, stage 7
+Initializing module LAN.switch4.eth[0].mac, stage 7
+Initializing module LAN.switch4.eth[1].mac, stage 7
+Initializing module LAN.switch4.eth[2].mac, stage 7
+Initializing module LAN.switch5.interfaceTable, stage 7
+Initializing module LAN.switch5.relayUnit, stage 7
+Initializing module LAN.switch5.eth[0].mac, stage 7
+Initializing module LAN.switch5.eth[1].mac, stage 7
+Initializing module LAN.hostA.cli, stage 8
+Initializing module LAN.hostA.srv, stage 8
+Initializing module LAN.hostA.llc, stage 8
+Initializing module LAN.hostA.mac, stage 8
+Initializing module LAN.hostB.cli, stage 8
+Initializing module LAN.hostB.srv, stage 8
+Initializing module LAN.hostB.llc, stage 8
+Initializing module LAN.hostB.mac, stage 8
+Initializing module LAN.hostC.cli, stage 8
+Initializing module LAN.hostC.srv, stage 8
+Initializing module LAN.hostC.llc, stage 8
+Initializing module LAN.hostC.mac, stage 8
+Initializing module LAN.hostD.cli, stage 8
+Initializing module LAN.hostD.srv, stage 8
+Initializing module LAN.hostD.llc, stage 8
+Initializing module LAN.hostD.mac, stage 8
+Initializing module LAN.hostE.cli, stage 8
+Initializing module LAN.hostE.srv, stage 8
+Initializing module LAN.hostE.llc, stage 8
+Initializing module LAN.hostE.mac, stage 8
+Initializing module LAN.hostF.cli, stage 8
+Initializing module LAN.hostF.srv, stage 8
+Initializing module LAN.hostF.llc, stage 8
+Initializing module LAN.hostF.mac, stage 8
+Initializing module LAN.switch0.interfaceTable, stage 8
+Initializing module LAN.switch0.relayUnit, stage 8
+Initializing module LAN.switch0.eth[0].mac, stage 8
+Initializing module LAN.switch0.eth[1].mac, stage 8
+Initializing module LAN.switch1.interfaceTable, stage 8
+Initializing module LAN.switch1.relayUnit, stage 8
+Initializing module LAN.switch1.eth[0].mac, stage 8
+Initializing module LAN.switch1.eth[1].mac, stage 8
+Initializing module LAN.switch1.eth[2].mac, stage 8
+Initializing module LAN.switch1.eth[3].mac, stage 8
+Initializing module LAN.switch2.interfaceTable, stage 8
+Initializing module LAN.switch2.relayUnit, stage 8
+Initializing module LAN.switch2.eth[0].mac, stage 8
+Initializing module LAN.switch2.eth[1].mac, stage 8
+Initializing module LAN.switch3.interfaceTable, stage 8
+Initializing module LAN.switch3.relayUnit, stage 8
+Initializing module LAN.switch3.eth[0].mac, stage 8
+Initializing module LAN.switch3.eth[1].mac, stage 8
+Initializing module LAN.switch3.eth[2].mac, stage 8
+Initializing module LAN.switch4.interfaceTable, stage 8
+Initializing module LAN.switch4.relayUnit, stage 8
+Initializing module LAN.switch4.eth[0].mac, stage 8
+Initializing module LAN.switch4.eth[1].mac, stage 8
+Initializing module LAN.switch4.eth[2].mac, stage 8
+Initializing module LAN.switch5.interfaceTable, stage 8
+Initializing module LAN.switch5.relayUnit, stage 8
+Initializing module LAN.switch5.eth[0].mac, stage 8
+Initializing module LAN.switch5.eth[1].mac, stage 8
+Initializing module LAN.hostA.cli, stage 9
+Initializing module LAN.hostA.srv, stage 9
+Initializing module LAN.hostA.llc, stage 9
+Initializing module LAN.hostA.mac, stage 9
+Initializing module LAN.hostB.cli, stage 9
+Initializing module LAN.hostB.srv, stage 9
+Initializing module LAN.hostB.llc, stage 9
+Initializing module LAN.hostB.mac, stage 9
+Initializing module LAN.hostC.cli, stage 9
+Initializing module LAN.hostC.srv, stage 9
+Initializing module LAN.hostC.llc, stage 9
+Initializing module LAN.hostC.mac, stage 9
+Initializing module LAN.hostD.cli, stage 9
+Initializing module LAN.hostD.srv, stage 9
+Initializing module LAN.hostD.llc, stage 9
+Initializing module LAN.hostD.mac, stage 9
+Initializing module LAN.hostE.cli, stage 9
+Initializing module LAN.hostE.srv, stage 9
+Initializing module LAN.hostE.llc, stage 9
+Initializing module LAN.hostE.mac, stage 9
+Initializing module LAN.hostF.cli, stage 9
+Initializing module LAN.hostF.srv, stage 9
+Initializing module LAN.hostF.llc, stage 9
+Initializing module LAN.hostF.mac, stage 9
+Initializing module LAN.switch0.interfaceTable, stage 9
+Initializing module LAN.switch0.relayUnit, stage 9
+Initializing module LAN.switch0.eth[0].mac, stage 9
+Initializing module LAN.switch0.eth[1].mac, stage 9
+Initializing module LAN.switch1.interfaceTable, stage 9
+Initializing module LAN.switch1.relayUnit, stage 9
+Initializing module LAN.switch1.eth[0].mac, stage 9
+Initializing module LAN.switch1.eth[1].mac, stage 9
+Initializing module LAN.switch1.eth[2].mac, stage 9
+Initializing module LAN.switch1.eth[3].mac, stage 9
+Initializing module LAN.switch2.interfaceTable, stage 9
+Initializing module LAN.switch2.relayUnit, stage 9
+Initializing module LAN.switch2.eth[0].mac, stage 9
+Initializing module LAN.switch2.eth[1].mac, stage 9
+Initializing module LAN.switch3.interfaceTable, stage 9
+Initializing module LAN.switch3.relayUnit, stage 9
+Initializing module LAN.switch3.eth[0].mac, stage 9
+Initializing module LAN.switch3.eth[1].mac, stage 9
+Initializing module LAN.switch3.eth[2].mac, stage 9
+Initializing module LAN.switch4.interfaceTable, stage 9
+Initializing module LAN.switch4.relayUnit, stage 9
+Initializing module LAN.switch4.eth[0].mac, stage 9
+Initializing module LAN.switch4.eth[1].mac, stage 9
+Initializing module LAN.switch4.eth[2].mac, stage 9
+Initializing module LAN.switch5.interfaceTable, stage 9
+Initializing module LAN.switch5.relayUnit, stage 9
+Initializing module LAN.switch5.eth[0].mac, stage 9
+Initializing module LAN.switch5.eth[1].mac, stage 9
+Initializing module LAN.hostA.cli, stage 10
+Initializing module LAN.hostA.srv, stage 10
+Initializing module LAN.hostA.llc, stage 10
+Initializing module LAN.hostA.mac, stage 10
+Initializing module LAN.hostB.cli, stage 10
+Initializing module LAN.hostB.srv, stage 10
+Initializing module LAN.hostB.llc, stage 10
+Initializing module LAN.hostB.mac, stage 10
+Initializing module LAN.hostC.cli, stage 10
+Initializing module LAN.hostC.srv, stage 10
+Initializing module LAN.hostC.llc, stage 10
+Initializing module LAN.hostC.mac, stage 10
+Initializing module LAN.hostD.cli, stage 10
+Initializing module LAN.hostD.srv, stage 10
+Initializing module LAN.hostD.llc, stage 10
+Initializing module LAN.hostD.mac, stage 10
+Initializing module LAN.hostE.cli, stage 10
+Initializing module LAN.hostE.srv, stage 10
+Initializing module LAN.hostE.llc, stage 10
+Initializing module LAN.hostE.mac, stage 10
+Initializing module LAN.hostF.cli, stage 10
+Initializing module LAN.hostF.srv, stage 10
+Initializing module LAN.hostF.llc, stage 10
+Initializing module LAN.hostF.mac, stage 10
+Initializing module LAN.switch0.interfaceTable, stage 10
+Initializing module LAN.switch0.relayUnit, stage 10
+Initializing module LAN.switch0.eth[0].mac, stage 10
+Initializing module LAN.switch0.eth[1].mac, stage 10
+Initializing module LAN.switch1.interfaceTable, stage 10
+Initializing module LAN.switch1.relayUnit, stage 10
+Initializing module LAN.switch1.eth[0].mac, stage 10
+Initializing module LAN.switch1.eth[1].mac, stage 10
+Initializing module LAN.switch1.eth[2].mac, stage 10
+Initializing module LAN.switch1.eth[3].mac, stage 10
+Initializing module LAN.switch2.interfaceTable, stage 10
+Initializing module LAN.switch2.relayUnit, stage 10
+Initializing module LAN.switch2.eth[0].mac, stage 10
+Initializing module LAN.switch2.eth[1].mac, stage 10
+Initializing module LAN.switch3.interfaceTable, stage 10
+Initializing module LAN.switch3.relayUnit, stage 10
+Initializing module LAN.switch3.eth[0].mac, stage 10
+Initializing module LAN.switch3.eth[1].mac, stage 10
+Initializing module LAN.switch3.eth[2].mac, stage 10
+Initializing module LAN.switch4.interfaceTable, stage 10
+Initializing module LAN.switch4.relayUnit, stage 10
+Initializing module LAN.switch4.eth[0].mac, stage 10
+Initializing module LAN.switch4.eth[1].mac, stage 10
+Initializing module LAN.switch4.eth[2].mac, stage 10
+Initializing module LAN.switch5.interfaceTable, stage 10
+Initializing module LAN.switch5.relayUnit, stage 10
+Initializing module LAN.switch5.eth[0].mac, stage 10
+Initializing module LAN.switch5.eth[1].mac, stage 10
+Initializing module LAN.hostA.cli, stage 11
+Initializing module LAN.hostA.srv, stage 11
+Initializing module LAN.hostA.llc, stage 11
+Initializing module LAN.hostA.mac, stage 11
+Initializing module LAN.hostB.cli, stage 11
+Initializing module LAN.hostB.srv, stage 11
+Initializing module LAN.hostB.llc, stage 11
+Initializing module LAN.hostB.mac, stage 11
+Initializing module LAN.hostC.cli, stage 11
+Initializing module LAN.hostC.srv, stage 11
+Initializing module LAN.hostC.llc, stage 11
+Initializing module LAN.hostC.mac, stage 11
+Initializing module LAN.hostD.cli, stage 11
+Initializing module LAN.hostD.srv, stage 11
+Initializing module LAN.hostD.llc, stage 11
+Initializing module LAN.hostD.mac, stage 11
+Initializing module LAN.hostE.cli, stage 11
+Initializing module LAN.hostE.srv, stage 11
+Initializing module LAN.hostE.llc, stage 11
+Initializing module LAN.hostE.mac, stage 11
+Initializing module LAN.hostF.cli, stage 11
+Initializing module LAN.hostF.srv, stage 11
+Initializing module LAN.hostF.llc, stage 11
+Initializing module LAN.hostF.mac, stage 11
+Initializing module LAN.switch0.interfaceTable, stage 11
+Initializing module LAN.switch0.relayUnit, stage 11
+Initializing module LAN.switch0.eth[0].mac, stage 11
+Initializing module LAN.switch0.eth[1].mac, stage 11
+Initializing module LAN.switch1.interfaceTable, stage 11
+Initializing module LAN.switch1.relayUnit, stage 11
+Initializing module LAN.switch1.eth[0].mac, stage 11
+Initializing module LAN.switch1.eth[1].mac, stage 11
+Initializing module LAN.switch1.eth[2].mac, stage 11
+Initializing module LAN.switch1.eth[3].mac, stage 11
+Initializing module LAN.switch2.interfaceTable, stage 11
+Initializing module LAN.switch2.relayUnit, stage 11
+Initializing module LAN.switch2.eth[0].mac, stage 11
+Initializing module LAN.switch2.eth[1].mac, stage 11
+Initializing module LAN.switch3.interfaceTable, stage 11
+Initializing module LAN.switch3.relayUnit, stage 11
+Initializing module LAN.switch3.eth[0].mac, stage 11
+Initializing module LAN.switch3.eth[1].mac, stage 11
+Initializing module LAN.switch3.eth[2].mac, stage 11
+Initializing module LAN.switch4.interfaceTable, stage 11
+Initializing module LAN.switch4.relayUnit, stage 11
+Initializing module LAN.switch4.eth[0].mac, stage 11
+Initializing module LAN.switch4.eth[1].mac, stage 11
+Initializing module LAN.switch4.eth[2].mac, stage 11
+Initializing module LAN.switch5.interfaceTable, stage 11
+Initializing module LAN.switch5.relayUnit, stage 11
+Initializing module LAN.switch5.eth[0].mac, stage 11
+Initializing module LAN.switch5.eth[1].mac, stage 11
+Initializing module LAN.hostA.cli, stage 12
+Initializing module LAN.hostA.srv, stage 12
+INFO;0;0;LAN.hostA.srv;;Starting application
+Initializing module LAN.hostA.llc, stage 12
+Initializing module LAN.hostA.mac, stage 12
+Initializing module LAN.hostB.cli, stage 12
+Initializing module LAN.hostB.srv, stage 12
+INFO;0;0;LAN.hostB.srv;;Starting application
+Initializing module LAN.hostB.llc, stage 12
+Initializing module LAN.hostB.mac, stage 12
+Initializing module LAN.hostC.cli, stage 12
+Initializing module LAN.hostC.srv, stage 12
+INFO;0;0;LAN.hostC.srv;;Starting application
+Initializing module LAN.hostC.llc, stage 12
+Initializing module LAN.hostC.mac, stage 12
+Initializing module LAN.hostD.cli, stage 12
+Initializing module LAN.hostD.srv, stage 12
+INFO;0;0;LAN.hostD.srv;;Starting application
+Initializing module LAN.hostD.llc, stage 12
+Initializing module LAN.hostD.mac, stage 12
+Initializing module LAN.hostE.cli, stage 12
+Initializing module LAN.hostE.srv, stage 12
+INFO;0;0;LAN.hostE.srv;;Starting application
+Initializing module LAN.hostE.llc, stage 12
+Initializing module LAN.hostE.mac, stage 12
+Initializing module LAN.hostF.cli, stage 12
+Initializing module LAN.hostF.srv, stage 12
+INFO;0;0;LAN.hostF.srv;;Starting application
+Initializing module LAN.hostF.llc, stage 12
+Initializing module LAN.hostF.mac, stage 12
+Initializing module LAN.switch0.interfaceTable, stage 12
+Initializing module LAN.switch0.relayUnit, stage 12
+Initializing module LAN.switch0.eth[0].mac, stage 12
+Initializing module LAN.switch0.eth[1].mac, stage 12
+Initializing module LAN.switch1.interfaceTable, stage 12
+Initializing module LAN.switch1.relayUnit, stage 12
+Initializing module LAN.switch1.eth[0].mac, stage 12
+Initializing module LAN.switch1.eth[1].mac, stage 12
+Initializing module LAN.switch1.eth[2].mac, stage 12
+Initializing module LAN.switch1.eth[3].mac, stage 12
+Initializing module LAN.switch2.interfaceTable, stage 12
+Initializing module LAN.switch2.relayUnit, stage 12
+Initializing module LAN.switch2.eth[0].mac, stage 12
+Initializing module LAN.switch2.eth[1].mac, stage 12
+Initializing module LAN.switch3.interfaceTable, stage 12
+Initializing module LAN.switch3.relayUnit, stage 12
+Initializing module LAN.switch3.eth[0].mac, stage 12
+Initializing module LAN.switch3.eth[1].mac, stage 12
+Initializing module LAN.switch3.eth[2].mac, stage 12
+Initializing module LAN.switch4.interfaceTable, stage 12
+Initializing module LAN.switch4.relayUnit, stage 12
+Initializing module LAN.switch4.eth[0].mac, stage 12
+Initializing module LAN.switch4.eth[1].mac, stage 12
+Initializing module LAN.switch4.eth[2].mac, stage 12
+Initializing module LAN.switch5.interfaceTable, stage 12
+Initializing module LAN.switch5.relayUnit, stage 12
+Initializing module LAN.switch5.eth[0].mac, stage 12
+Initializing module LAN.switch5.eth[1].mac, stage 12
+Initializing module LAN.hostA.cli, stage 13
+Initializing module LAN.hostA.srv, stage 13
+Initializing module LAN.hostA.llc, stage 13
+Initializing module LAN.hostA.mac, stage 13
+Initializing module LAN.hostB.cli, stage 13
+Initializing module LAN.hostB.srv, stage 13
+Initializing module LAN.hostB.llc, stage 13
+Initializing module LAN.hostB.mac, stage 13
+Initializing module LAN.hostC.cli, stage 13
+Initializing module LAN.hostC.srv, stage 13
+Initializing module LAN.hostC.llc, stage 13
+Initializing module LAN.hostC.mac, stage 13
+Initializing module LAN.hostD.cli, stage 13
+Initializing module LAN.hostD.srv, stage 13
+Initializing module LAN.hostD.llc, stage 13
+Initializing module LAN.hostD.mac, stage 13
+Initializing module LAN.hostE.cli, stage 13
+Initializing module LAN.hostE.srv, stage 13
+Initializing module LAN.hostE.llc, stage 13
+Initializing module LAN.hostE.mac, stage 13
+Initializing module LAN.hostF.cli, stage 13
+Initializing module LAN.hostF.srv, stage 13
+Initializing module LAN.hostF.llc, stage 13
+Initializing module LAN.hostF.mac, stage 13
+Initializing module LAN.switch0.interfaceTable, stage 13
+Initializing module LAN.switch0.relayUnit, stage 13
+Initializing module LAN.switch0.eth[0].mac, stage 13
+Initializing module LAN.switch0.eth[1].mac, stage 13
+Initializing module LAN.switch1.interfaceTable, stage 13
+Initializing module LAN.switch1.relayUnit, stage 13
+Initializing module LAN.switch1.eth[0].mac, stage 13
+Initializing module LAN.switch1.eth[1].mac, stage 13
+Initializing module LAN.switch1.eth[2].mac, stage 13
+Initializing module LAN.switch1.eth[3].mac, stage 13
+Initializing module LAN.switch2.interfaceTable, stage 13
+Initializing module LAN.switch2.relayUnit, stage 13
+Initializing module LAN.switch2.eth[0].mac, stage 13
+Initializing module LAN.switch2.eth[1].mac, stage 13
+Initializing module LAN.switch3.interfaceTable, stage 13
+Initializing module LAN.switch3.relayUnit, stage 13
+Initializing module LAN.switch3.eth[0].mac, stage 13
+Initializing module LAN.switch3.eth[1].mac, stage 13
+Initializing module LAN.switch3.eth[2].mac, stage 13
+Initializing module LAN.switch4.interfaceTable, stage 13
+Initializing module LAN.switch4.relayUnit, stage 13
+Initializing module LAN.switch4.eth[0].mac, stage 13
+Initializing module LAN.switch4.eth[1].mac, stage 13
+Initializing module LAN.switch4.eth[2].mac, stage 13
+Initializing module LAN.switch5.interfaceTable, stage 13
+Initializing module LAN.switch5.relayUnit, stage 13
+Initializing module LAN.switch5.eth[0].mac, stage 13
+Initializing module LAN.switch5.eth[1].mac, stage 13
+
+Running simulation...
+** Event #1  t=0  0% completed   LAN.hostA.llc (EtherLLC, id=38)
+INFO;1;0;LAN.hostA.llc;register_DSAP;Registering higher layer with DSAP=241 on port=1
+** Event #2  t=0  0% completed   LAN.hostB.llc (EtherLLC, id=42)
+INFO;2;0;LAN.hostB.llc;register_DSAP;Registering higher layer with DSAP=241 on port=1
+** Event #3  t=0  0% completed   LAN.hostC.llc (EtherLLC, id=46)
+INFO;3;0;LAN.hostC.llc;register_DSAP;Registering higher layer with DSAP=241 on port=1
+** Event #4  t=0  0% completed   LAN.hostD.llc (EtherLLC, id=50)
+INFO;4;0;LAN.hostD.llc;register_DSAP;Registering higher layer with DSAP=241 on port=1
+** Event #5  t=0  0% completed   LAN.hostE.llc (EtherLLC, id=54)
+INFO;5;0;LAN.hostE.llc;register_DSAP;Registering higher layer with DSAP=241 on port=1
+** Event #6  t=0  0% completed   LAN.hostF.llc (EtherLLC, id=58)
+INFO;6;0;LAN.hostF.llc;register_DSAP;Registering higher layer with DSAP=241 on port=1
+** Event #7  t=0.898560388484  89% completed   LAN.hostB.cli (EtherAppCli, id=40)
+INFO;7;0.898560388484;LAN.hostB.cli;generateNextPacket;Generating packet `req-40-1'
+** Event #8  t=0.898560388484  89% completed   LAN.hostB.llc (EtherLLC, id=42)
+INFO;8;0.898560388484;LAN.hostB.llc;register_DSAP;Registering higher layer with DSAP=240 on port=0
+** Event #9  t=0.898560388484  89% completed   LAN.hostB.llc (EtherLLC, id=42)
+INFO;9;0.898560388484;LAN.hostB.llc;req-40-1;Encapsulating higher layer packet `req-40-1' for MAC
+INFO;9;0.898560388484;LAN.hostB.llc;req-40-1;Sent from LAN.hostB.cli at 0.898560388484 and was created 0.898560388484
+** Event #10  t=0.898560388484  89% completed   LAN.hostB.mac (EtherMAC, id=43)
+INFO;10;0.898560388484;LAN.hostB.mac;req-40-1;Received (inet::EtherFrameWithLLC)req-40-1 from upper layer.
+INFO;10;0.898560388484;LAN.hostB.mac;req-40-1;Transmission of (inet::EtherFrameWithLLC)req-40-1 started.
+** Event #11  t=0.898560488484  89% completed   LAN.switch1.eth[3].mac (EtherMAC, id=102)
+INFO;11;0.898560488484;LAN.switch1.eth[3].mac;req-40-1;Reception of (inet::EtherPhyFrame)req-40-1 started.
+** Event #12  t=0.898649348484  89% completed   LAN.hostB.mac (EtherMAC, id=43)
+INFO;12;0.898649348484;LAN.hostB.mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-40-1 successfully completed.
+** Event #13  t=0.898649448484  89% completed   LAN.switch1.eth[3].mac (EtherMAC, id=102)
+INFO;13;0.898649448484;LAN.switch1.eth[3].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-40-1 successfully completed.
+INFO;13;0.898649448484;LAN.switch1.eth[3].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-40-1 to upper layer.
+** Event #14  t=0.898649448484  89% completed   LAN.switch1.relayUnit (MACRelayUnit, id=79)
+INFO;14;0.898649448484;LAN.switch1.macTable;req-40-1;Adding entry to Address Table: 0A-AA-00-00-00-02 --> port3
+INFO;14;0.898649448484;LAN.switch1.relayUnit;req-40-1;Dest address 0A-AA-00-00-00-01 unknown, broadcasting frame (inet::EtherFrameWithLLC)req-40-1
+** Event #15  t=0.898649448484  89% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+INFO;15;0.898649448484;LAN.switch1.eth[0].mac;req-40-1;Received (inet::EtherFrameWithLLC)req-40-1 from upper layer.
+INFO;15;0.898649448484;LAN.switch1.eth[0].mac;req-40-1;Transmission of (inet::EtherFrameWithLLC)req-40-1 started.
+** Event #16  t=0.898649448484  89% completed   LAN.switch1.eth[1].mac (EtherMAC, id=90)
+INFO;16;0.898649448484;LAN.switch1.eth[1].mac;req-40-1;Received (inet::EtherFrameWithLLC)req-40-1 from upper layer.
+INFO;16;0.898649448484;LAN.switch1.eth[1].mac;req-40-1;Transmission of (inet::EtherFrameWithLLC)req-40-1 started.
+** Event #17  t=0.898649448484  89% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+INFO;17;0.898649448484;LAN.switch1.eth[2].mac;req-40-1;Received (inet::EtherFrameWithLLC)req-40-1 from upper layer.
+INFO;17;0.898649448484;LAN.switch1.eth[2].mac;req-40-1;Transmission of (inet::EtherFrameWithLLC)req-40-1 started.
+** Event #18  t=0.898649548484  89% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+INFO;18;0.898649548484;LAN.switch0.eth[0].mac;req-40-1;Reception of (inet::EtherPhyFrame)req-40-1 started.
+** Event #19  t=0.898649548484  89% completed   LAN.switch2.eth[0].mac (EtherMAC, id=113)
+INFO;19;0.898649548484;LAN.switch2.eth[0].mac;req-40-1;Reception of (inet::EtherPhyFrame)req-40-1 started.
+** Event #20  t=0.898649548484  89% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+INFO;20;0.898649548484;LAN.switch3.eth[0].mac;req-40-1;Reception of (inet::EtherPhyFrame)req-40-1 started.
+** Event #21  t=0.898650308484  89% completed   LAN.hostB.mac (EtherMAC, id=43)
+** Event #22  t=0.898650408484  89% completed   LAN.switch1.eth[3].mac (EtherMAC, id=102)
+** Event #23  t=0.898738408484  89% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+INFO;23;0.898738408484;LAN.switch1.eth[0].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-40-1 successfully completed.
+** Event #24  t=0.898738408484  89% completed   LAN.switch1.eth[1].mac (EtherMAC, id=90)
+INFO;24;0.898738408484;LAN.switch1.eth[1].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-40-1 successfully completed.
+** Event #25  t=0.898738408484  89% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+INFO;25;0.898738408484;LAN.switch1.eth[2].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-40-1 successfully completed.
+** Event #26  t=0.898738508484  89% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+INFO;26;0.898738508484;LAN.switch0.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-40-1 successfully completed.
+INFO;26;0.898738508484;LAN.switch0.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-40-1 to upper layer.
+** Event #27  t=0.898738508484  89% completed   LAN.switch2.eth[0].mac (EtherMAC, id=113)
+INFO;27;0.898738508484;LAN.switch2.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-40-1 successfully completed.
+INFO;27;0.898738508484;LAN.switch2.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-40-1 to upper layer.
+** Event #28  t=0.898738508484  89% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+INFO;28;0.898738508484;LAN.switch3.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-40-1 successfully completed.
+INFO;28;0.898738508484;LAN.switch3.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-40-1 to upper layer.
+** Event #29  t=0.898738508484  89% completed   LAN.switch0.relayUnit (MACRelayUnit, id=62)
+INFO;29;0.898738508484;LAN.switch0.macTable;req-40-1;Adding entry to Address Table: 0A-AA-00-00-00-02 --> port0
+INFO;29;0.898738508484;LAN.switch0.relayUnit;req-40-1;Dest address 0A-AA-00-00-00-01 unknown, broadcasting frame (inet::EtherFrameWithLLC)req-40-1
+** Event #30  t=0.898738508484  89% completed   LAN.switch2.relayUnit (MACRelayUnit, id=110)
+INFO;30;0.898738508484;LAN.switch2.macTable;req-40-1;Adding entry to Address Table: 0A-AA-00-00-00-02 --> port0
+INFO;30;0.898738508484;LAN.switch2.relayUnit;req-40-1;Dest address 0A-AA-00-00-00-01 unknown, broadcasting frame (inet::EtherFrameWithLLC)req-40-1
+** Event #31  t=0.898738508484  89% completed   LAN.switch3.relayUnit (MACRelayUnit, id=127)
+INFO;31;0.898738508484;LAN.switch3.macTable;req-40-1;Adding entry to Address Table: 0A-AA-00-00-00-02 --> port0
+INFO;31;0.898738508484;LAN.switch3.relayUnit;req-40-1;Dest address 0A-AA-00-00-00-01 unknown, broadcasting frame (inet::EtherFrameWithLLC)req-40-1
+** Event #32  t=0.898738508484  89% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+INFO;32;0.898738508484;LAN.switch0.eth[1].mac;req-40-1;Received (inet::EtherFrameWithLLC)req-40-1 from upper layer.
+INFO;32;0.898738508484;LAN.switch0.eth[1].mac;req-40-1;Transmission of (inet::EtherFrameWithLLC)req-40-1 started.
+** Event #33  t=0.898738508484  89% completed   LAN.switch2.eth[1].mac (EtherMAC, id=119)
+INFO;33;0.898738508484;LAN.switch2.eth[1].mac;req-40-1;Received (inet::EtherFrameWithLLC)req-40-1 from upper layer.
+INFO;33;0.898738508484;LAN.switch2.eth[1].mac;req-40-1;Transmission of (inet::EtherFrameWithLLC)req-40-1 started.
+** Event #34  t=0.898738508484  89% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+INFO;34;0.898738508484;LAN.switch3.eth[1].mac;req-40-1;Received (inet::EtherFrameWithLLC)req-40-1 from upper layer.
+INFO;34;0.898738508484;LAN.switch3.eth[1].mac;req-40-1;Transmission of (inet::EtherFrameWithLLC)req-40-1 started.
+** Event #35  t=0.898738508484  89% completed   LAN.switch3.eth[2].mac (EtherMAC, id=143)
+INFO;35;0.898738508484;LAN.switch3.eth[2].mac;req-40-1;Received (inet::EtherFrameWithLLC)req-40-1 from upper layer.
+INFO;35;0.898738508484;LAN.switch3.eth[2].mac;req-40-1;Transmission of (inet::EtherFrameWithLLC)req-40-1 started.
+** Event #36  t=0.898738608484  89% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;36;0.898738608484;LAN.hostA.mac;req-40-1;Reception of (inet::EtherPhyFrame)req-40-1 started.
+** Event #37  t=0.898738608484  89% completed   LAN.hostC.mac (EtherMAC, id=47)
+INFO;37;0.898738608484;LAN.hostC.mac;req-40-1;Reception of (inet::EtherPhyFrame)req-40-1 started.
+** Event #38  t=0.898738608484  89% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+INFO;38;0.898738608484;LAN.switch4.eth[0].mac;req-40-1;Reception of (inet::EtherPhyFrame)req-40-1 started.
+** Event #39  t=0.898738608484  89% completed   LAN.hostD.mac (EtherMAC, id=51)
+INFO;39;0.898738608484;LAN.hostD.mac;req-40-1;Reception of (inet::EtherPhyFrame)req-40-1 started.
+** Event #40  t=0.898739368484  89% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+** Event #41  t=0.898739368484  89% completed   LAN.switch1.eth[1].mac (EtherMAC, id=90)
+** Event #42  t=0.898739368484  89% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+** Event #43  t=0.898739468484  89% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+** Event #44  t=0.898739468484  89% completed   LAN.switch2.eth[0].mac (EtherMAC, id=113)
+** Event #45  t=0.898739468484  89% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+** Event #46  t=0.898827468484  89% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+INFO;46;0.898827468484;LAN.switch0.eth[1].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-40-1 successfully completed.
+** Event #47  t=0.898827468484  89% completed   LAN.switch2.eth[1].mac (EtherMAC, id=119)
+INFO;47;0.898827468484;LAN.switch2.eth[1].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-40-1 successfully completed.
+** Event #48  t=0.898827468484  89% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+INFO;48;0.898827468484;LAN.switch3.eth[1].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-40-1 successfully completed.
+** Event #49  t=0.898827468484  89% completed   LAN.switch3.eth[2].mac (EtherMAC, id=143)
+INFO;49;0.898827468484;LAN.switch3.eth[2].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-40-1 successfully completed.
+** Event #50  t=0.898827568484  89% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;50;0.898827568484;LAN.hostA.mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-40-1 successfully completed.
+INFO;50;0.898827568484;LAN.hostA.mac;EndReception;Sending (inet::EtherFrameWithLLC)req-40-1 to upper layer.
+** Event #51  t=0.898827568484  89% completed   LAN.hostC.mac (EtherMAC, id=47)
+WARN;51;0.898827568484;LAN.hostC.mac;EndReception;Frame `req-40-1' not destined to us, discarding
+** Event #52  t=0.898827568484  89% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+INFO;52;0.898827568484;LAN.switch4.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-40-1 successfully completed.
+INFO;52;0.898827568484;LAN.switch4.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-40-1 to upper layer.
+** Event #53  t=0.898827568484  89% completed   LAN.hostD.mac (EtherMAC, id=51)
+WARN;53;0.898827568484;LAN.hostD.mac;EndReception;Frame `req-40-1' not destined to us, discarding
+** Event #54  t=0.898827568484  89% completed   LAN.hostA.llc (EtherLLC, id=38)
+INFO;54;0.898827568484;LAN.hostA.llc;req-40-1;Decapsulating frame `req-40-1', passing up contained packet `req-40-1' to higher layer 1
+** Event #55  t=0.898827568484  89% completed   LAN.switch4.relayUnit (MACRelayUnit, id=151)
+INFO;55;0.898827568484;LAN.switch4.macTable;req-40-1;Adding entry to Address Table: 0A-AA-00-00-00-02 --> port0
+INFO;55;0.898827568484;LAN.switch4.relayUnit;req-40-1;Dest address 0A-AA-00-00-00-01 unknown, broadcasting frame (inet::EtherFrameWithLLC)req-40-1
+** Event #56  t=0.898827568484  89% completed   LAN.hostA.srv (EtherAppSrv, id=37)
+INFO;56;0.898827568484;LAN.hostA.srv;req-40-1;Received packet `req-40-1'
+INFO;56;0.898827568484;LAN.hostA.srv;req-40-1;Send response `req-40-1-resp-0' to 0A-AA-00-00-00-02 ssap=241 dsap=240 length=448B requestId=1
+** Event #57  t=0.898827568484  89% completed   LAN.switch4.eth[1].mac (EtherMAC, id=161)
+INFO;57;0.898827568484;LAN.switch4.eth[1].mac;req-40-1;Received (inet::EtherFrameWithLLC)req-40-1 from upper layer.
+INFO;57;0.898827568484;LAN.switch4.eth[1].mac;req-40-1;Transmission of (inet::EtherFrameWithLLC)req-40-1 started.
+** Event #58  t=0.898827568484  89% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+INFO;58;0.898827568484;LAN.switch4.eth[2].mac;req-40-1;Received (inet::EtherFrameWithLLC)req-40-1 from upper layer.
+INFO;58;0.898827568484;LAN.switch4.eth[2].mac;req-40-1;Transmission of (inet::EtherFrameWithLLC)req-40-1 started.
+** Event #59  t=0.898827568484  89% completed   LAN.hostA.llc (EtherLLC, id=38)
+INFO;59;0.898827568484;LAN.hostA.llc;req-40-1-resp-0;Encapsulating higher layer packet `req-40-1-resp-0' for MAC
+INFO;59;0.898827568484;LAN.hostA.llc;req-40-1-resp-0;Sent from LAN.hostA.srv at 0.898827568484 and was created 0.898827568484
+** Event #60  t=0.898827568484  89% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;60;0.898827568484;LAN.hostA.mac;req-40-1-resp-0;Received (inet::EtherFrameWithLLC)req-40-1-resp-0 from upper layer.
+** Event #61  t=0.898827668484  89% completed   LAN.switch5.eth[0].mac (EtherMAC, id=178)
+INFO;61;0.898827668484;LAN.switch5.eth[0].mac;req-40-1;Reception of (inet::EtherPhyFrame)req-40-1 started.
+** Event #62  t=0.898827668484  89% completed   LAN.hostE.mac (EtherMAC, id=55)
+INFO;62;0.898827668484;LAN.hostE.mac;req-40-1;Reception of (inet::EtherPhyFrame)req-40-1 started.
+** Event #63  t=0.898828428484  89% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+** Event #64  t=0.898828428484  89% completed   LAN.switch2.eth[1].mac (EtherMAC, id=119)
+** Event #65  t=0.898828428484  89% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+** Event #66  t=0.898828428484  89% completed   LAN.switch3.eth[2].mac (EtherMAC, id=143)
+** Event #67  t=0.898828528484  89% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;67;0.898828528484;LAN.hostA.mac;EndIFG;Transmission of (inet::EtherFrameWithLLC)req-40-1-resp-0 started.
+** Event #68  t=0.898828528484  89% completed   LAN.hostC.mac (EtherMAC, id=47)
+** Event #69  t=0.898828528484  89% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+** Event #70  t=0.898828528484  89% completed   LAN.hostD.mac (EtherMAC, id=51)
+** Event #71  t=0.898828628484  89% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+INFO;71;0.898828628484;LAN.switch0.eth[1].mac;req-40-1-resp-0;Reception of (inet::EtherPhyFrame)req-40-1-resp-0 started.
+** Event #72  t=0.898866688484  89% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;72;0.898866688484;LAN.hostA.mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-40-1-resp-0 successfully completed.
+** Event #73  t=0.898866788484  89% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+INFO;73;0.898866788484;LAN.switch0.eth[1].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-40-1-resp-0 successfully completed.
+INFO;73;0.898866788484;LAN.switch0.eth[1].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-40-1-resp-0 to upper layer.
+** Event #74  t=0.898866788484  89% completed   LAN.switch0.relayUnit (MACRelayUnit, id=62)
+INFO;74;0.898866788484;LAN.switch0.macTable;req-40-1-resp-0;Adding entry to Address Table: 0A-AA-00-00-00-01 --> port1
+INFO;74;0.898866788484;LAN.switch0.relayUnit;req-40-1-resp-0;Sending frame (inet::EtherFrameWithLLC)req-40-1-resp-0 with dest address 0A-AA-00-00-00-02 to port 0
+** Event #75  t=0.898866788484  89% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+INFO;75;0.898866788484;LAN.switch0.eth[0].mac;req-40-1-resp-0;Received (inet::EtherFrameWithLLC)req-40-1-resp-0 from upper layer.
+INFO;75;0.898866788484;LAN.switch0.eth[0].mac;req-40-1-resp-0;Transmission of (inet::EtherFrameWithLLC)req-40-1-resp-0 started.
+** Event #76  t=0.898866888484  89% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+INFO;76;0.898866888484;LAN.switch1.eth[0].mac;req-40-1-resp-0;Reception of (inet::EtherPhyFrame)req-40-1-resp-0 started.
+** Event #77  t=0.898867648484  89% completed   LAN.hostA.mac (EtherMAC, id=39)
+** Event #78  t=0.898867748484  89% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+** Event #79  t=0.898904948484  89% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+INFO;79;0.898904948484;LAN.switch0.eth[0].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-40-1-resp-0 successfully completed.
+** Event #80  t=0.898905048484  89% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+INFO;80;0.898905048484;LAN.switch1.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-40-1-resp-0 successfully completed.
+INFO;80;0.898905048484;LAN.switch1.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-40-1-resp-0 to upper layer.
+** Event #81  t=0.898905048484  89% completed   LAN.switch1.relayUnit (MACRelayUnit, id=79)
+INFO;81;0.898905048484;LAN.switch1.macTable;req-40-1-resp-0;Adding entry to Address Table: 0A-AA-00-00-00-01 --> port0
+INFO;81;0.898905048484;LAN.switch1.relayUnit;req-40-1-resp-0;Sending frame (inet::EtherFrameWithLLC)req-40-1-resp-0 with dest address 0A-AA-00-00-00-02 to port 3
+** Event #82  t=0.898905048484  89% completed   LAN.switch1.eth[3].mac (EtherMAC, id=102)
+INFO;82;0.898905048484;LAN.switch1.eth[3].mac;req-40-1-resp-0;Received (inet::EtherFrameWithLLC)req-40-1-resp-0 from upper layer.
+INFO;82;0.898905048484;LAN.switch1.eth[3].mac;req-40-1-resp-0;Transmission of (inet::EtherFrameWithLLC)req-40-1-resp-0 started.
+** Event #83  t=0.898905148484  89% completed   LAN.hostB.mac (EtherMAC, id=43)
+INFO;83;0.898905148484;LAN.hostB.mac;req-40-1-resp-0;Reception of (inet::EtherPhyFrame)req-40-1-resp-0 started.
+** Event #84  t=0.898905908484  89% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+** Event #85  t=0.898906008484  89% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+** Event #86  t=0.898916528484  89% completed   LAN.switch4.eth[1].mac (EtherMAC, id=161)
+INFO;86;0.898916528484;LAN.switch4.eth[1].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-40-1 successfully completed.
+** Event #87  t=0.898916528484  89% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+INFO;87;0.898916528484;LAN.switch4.eth[2].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-40-1 successfully completed.
+** Event #88  t=0.898916628484  89% completed   LAN.switch5.eth[0].mac (EtherMAC, id=178)
+INFO;88;0.898916628484;LAN.switch5.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-40-1 successfully completed.
+INFO;88;0.898916628484;LAN.switch5.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-40-1 to upper layer.
+** Event #89  t=0.898916628484  89% completed   LAN.hostE.mac (EtherMAC, id=55)
+WARN;89;0.898916628484;LAN.hostE.mac;EndReception;Frame `req-40-1' not destined to us, discarding
+** Event #90  t=0.898916628484  89% completed   LAN.switch5.relayUnit (MACRelayUnit, id=175)
+INFO;90;0.898916628484;LAN.switch5.macTable;req-40-1;Adding entry to Address Table: 0A-AA-00-00-00-02 --> port0
+INFO;90;0.898916628484;LAN.switch5.relayUnit;req-40-1;Dest address 0A-AA-00-00-00-01 unknown, broadcasting frame (inet::EtherFrameWithLLC)req-40-1
+** Event #91  t=0.898916628484  89% completed   LAN.switch5.eth[1].mac (EtherMAC, id=184)
+INFO;91;0.898916628484;LAN.switch5.eth[1].mac;req-40-1;Received (inet::EtherFrameWithLLC)req-40-1 from upper layer.
+INFO;91;0.898916628484;LAN.switch5.eth[1].mac;req-40-1;Transmission of (inet::EtherFrameWithLLC)req-40-1 started.
+** Event #92  t=0.898916728484  89% completed   LAN.hostF.mac (EtherMAC, id=59)
+INFO;92;0.898916728484;LAN.hostF.mac;req-40-1;Reception of (inet::EtherPhyFrame)req-40-1 started.
+** Event #93  t=0.898917488484  89% completed   LAN.switch4.eth[1].mac (EtherMAC, id=161)
+** Event #94  t=0.898917488484  89% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+** Event #95  t=0.898917588484  89% completed   LAN.switch5.eth[0].mac (EtherMAC, id=178)
+** Event #96  t=0.898917588484  89% completed   LAN.hostE.mac (EtherMAC, id=55)
+** Event #97  t=0.898943208484  89% completed   LAN.switch1.eth[3].mac (EtherMAC, id=102)
+INFO;97;0.898943208484;LAN.switch1.eth[3].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-40-1-resp-0 successfully completed.
+** Event #98  t=0.898943308484  89% completed   LAN.hostB.mac (EtherMAC, id=43)
+INFO;98;0.898943308484;LAN.hostB.mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-40-1-resp-0 successfully completed.
+INFO;98;0.898943308484;LAN.hostB.mac;EndReception;Sending (inet::EtherFrameWithLLC)req-40-1-resp-0 to upper layer.
+** Event #99  t=0.898943308484  89% completed   LAN.hostB.llc (EtherLLC, id=42)
+INFO;99;0.898943308484;LAN.hostB.llc;req-40-1-resp-0;Decapsulating frame `req-40-1-resp-0', passing up contained packet `req-40-1-resp-0' to higher layer 0
+** Event #100  t=0.898943308484  89% completed   LAN.hostB.cli (EtherAppCli, id=40)
+INFO;100;0.898943308484;LAN.hostB.cli;req-40-1-resp-0;Received packet `req-40-1-resp-0'
+** Event #101  t=0.898944168484  89% completed   LAN.switch1.eth[3].mac (EtherMAC, id=102)
+** Event #102  t=0.898944268484  89% completed   LAN.hostB.mac (EtherMAC, id=43)
+** Event #103  t=0.899005588484  89% completed   LAN.switch5.eth[1].mac (EtherMAC, id=184)
+INFO;103;0.899005588484;LAN.switch5.eth[1].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-40-1 successfully completed.
+** Event #104  t=0.899005688484  89% completed   LAN.hostF.mac (EtherMAC, id=59)
+WARN;104;0.899005688484;LAN.hostF.mac;EndReception;Frame `req-40-1' not destined to us, discarding
+** Event #105  t=0.899006548484  89% completed   LAN.switch5.eth[1].mac (EtherMAC, id=184)
+** Event #106  t=0.899006648484  89% completed   LAN.hostF.mac (EtherMAC, id=59)
+** Event #107  t=0.923223131471  92% completed   LAN.hostE.cli (EtherAppCli, id=52)
+INFO;107;0.923223131471;LAN.hostE.cli;generateNextPacket;Generating packet `req-52-1'
+** Event #108  t=0.923223131471  92% completed   LAN.hostE.llc (EtherLLC, id=54)
+INFO;108;0.923223131471;LAN.hostE.llc;register_DSAP;Registering higher layer with DSAP=240 on port=0
+** Event #109  t=0.923223131471  92% completed   LAN.hostE.llc (EtherLLC, id=54)
+INFO;109;0.923223131471;LAN.hostE.llc;req-52-1;Encapsulating higher layer packet `req-52-1' for MAC
+INFO;109;0.923223131471;LAN.hostE.llc;req-52-1;Sent from LAN.hostE.cli at 0.923223131471 and was created 0.923223131471
+** Event #110  t=0.923223131471  92% completed   LAN.hostE.mac (EtherMAC, id=55)
+INFO;110;0.923223131471;LAN.hostE.mac;req-52-1;Received (inet::EtherFrameWithLLC)req-52-1 from upper layer.
+INFO;110;0.923223131471;LAN.hostE.mac;req-52-1;Transmission of (inet::EtherFrameWithLLC)req-52-1 started.
+** Event #111  t=0.923223231471  92% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+INFO;111;0.923223231471;LAN.switch4.eth[2].mac;req-52-1;Reception of (inet::EtherPhyFrame)req-52-1 started.
+** Event #112  t=0.923277371471  92% completed   LAN.hostE.mac (EtherMAC, id=55)
+INFO;112;0.923277371471;LAN.hostE.mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1 successfully completed.
+** Event #113  t=0.923277471471  92% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+INFO;113;0.923277471471;LAN.switch4.eth[2].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1 successfully completed.
+INFO;113;0.923277471471;LAN.switch4.eth[2].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1 to upper layer.
+** Event #114  t=0.923277471471  92% completed   LAN.switch4.relayUnit (MACRelayUnit, id=151)
+INFO;114;0.923277471471;LAN.switch4.macTable;req-52-1;Adding entry to Address Table: 0A-AA-00-00-00-05 --> port2
+INFO;114;0.923277471471;LAN.switch4.relayUnit;req-52-1;Dest address 0A-AA-00-00-00-01 unknown, broadcasting frame (inet::EtherFrameWithLLC)req-52-1
+** Event #115  t=0.923277471471  92% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+INFO;115;0.923277471471;LAN.switch4.eth[0].mac;req-52-1;Received (inet::EtherFrameWithLLC)req-52-1 from upper layer.
+INFO;115;0.923277471471;LAN.switch4.eth[0].mac;req-52-1;Transmission of (inet::EtherFrameWithLLC)req-52-1 started.
+** Event #116  t=0.923277471471  92% completed   LAN.switch4.eth[1].mac (EtherMAC, id=161)
+INFO;116;0.923277471471;LAN.switch4.eth[1].mac;req-52-1;Received (inet::EtherFrameWithLLC)req-52-1 from upper layer.
+INFO;116;0.923277471471;LAN.switch4.eth[1].mac;req-52-1;Transmission of (inet::EtherFrameWithLLC)req-52-1 started.
+** Event #117  t=0.923277571471  92% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+INFO;117;0.923277571471;LAN.switch3.eth[1].mac;req-52-1;Reception of (inet::EtherPhyFrame)req-52-1 started.
+** Event #118  t=0.923277571471  92% completed   LAN.switch5.eth[0].mac (EtherMAC, id=178)
+INFO;118;0.923277571471;LAN.switch5.eth[0].mac;req-52-1;Reception of (inet::EtherPhyFrame)req-52-1 started.
+** Event #119  t=0.923278331471  92% completed   LAN.hostE.mac (EtherMAC, id=55)
+** Event #120  t=0.923278431471  92% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+** Event #121  t=0.923331711471  92% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+INFO;121;0.923331711471;LAN.switch4.eth[0].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1 successfully completed.
+** Event #122  t=0.923331711471  92% completed   LAN.switch4.eth[1].mac (EtherMAC, id=161)
+INFO;122;0.923331711471;LAN.switch4.eth[1].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1 successfully completed.
+** Event #123  t=0.923331811471  92% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+INFO;123;0.923331811471;LAN.switch3.eth[1].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1 successfully completed.
+INFO;123;0.923331811471;LAN.switch3.eth[1].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1 to upper layer.
+** Event #124  t=0.923331811471  92% completed   LAN.switch5.eth[0].mac (EtherMAC, id=178)
+INFO;124;0.923331811471;LAN.switch5.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1 successfully completed.
+INFO;124;0.923331811471;LAN.switch5.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1 to upper layer.
+** Event #125  t=0.923331811471  92% completed   LAN.switch3.relayUnit (MACRelayUnit, id=127)
+INFO;125;0.923331811471;LAN.switch3.macTable;req-52-1;Adding entry to Address Table: 0A-AA-00-00-00-05 --> port1
+INFO;125;0.923331811471;LAN.switch3.relayUnit;req-52-1;Dest address 0A-AA-00-00-00-01 unknown, broadcasting frame (inet::EtherFrameWithLLC)req-52-1
+** Event #126  t=0.923331811471  92% completed   LAN.switch5.relayUnit (MACRelayUnit, id=175)
+INFO;126;0.923331811471;LAN.switch5.macTable;req-52-1;Adding entry to Address Table: 0A-AA-00-00-00-05 --> port0
+INFO;126;0.923331811471;LAN.switch5.relayUnit;req-52-1;Dest address 0A-AA-00-00-00-01 unknown, broadcasting frame (inet::EtherFrameWithLLC)req-52-1
+** Event #127  t=0.923331811471  92% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+INFO;127;0.923331811471;LAN.switch3.eth[0].mac;req-52-1;Received (inet::EtherFrameWithLLC)req-52-1 from upper layer.
+INFO;127;0.923331811471;LAN.switch3.eth[0].mac;req-52-1;Transmission of (inet::EtherFrameWithLLC)req-52-1 started.
+** Event #128  t=0.923331811471  92% completed   LAN.switch3.eth[2].mac (EtherMAC, id=143)
+INFO;128;0.923331811471;LAN.switch3.eth[2].mac;req-52-1;Received (inet::EtherFrameWithLLC)req-52-1 from upper layer.
+INFO;128;0.923331811471;LAN.switch3.eth[2].mac;req-52-1;Transmission of (inet::EtherFrameWithLLC)req-52-1 started.
+** Event #129  t=0.923331811471  92% completed   LAN.switch5.eth[1].mac (EtherMAC, id=184)
+INFO;129;0.923331811471;LAN.switch5.eth[1].mac;req-52-1;Received (inet::EtherFrameWithLLC)req-52-1 from upper layer.
+INFO;129;0.923331811471;LAN.switch5.eth[1].mac;req-52-1;Transmission of (inet::EtherFrameWithLLC)req-52-1 started.
+** Event #130  t=0.923331911471  92% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+INFO;130;0.923331911471;LAN.switch1.eth[2].mac;req-52-1;Reception of (inet::EtherPhyFrame)req-52-1 started.
+** Event #131  t=0.923331911471  92% completed   LAN.hostD.mac (EtherMAC, id=51)
+INFO;131;0.923331911471;LAN.hostD.mac;req-52-1;Reception of (inet::EtherPhyFrame)req-52-1 started.
+** Event #132  t=0.923331911471  92% completed   LAN.hostF.mac (EtherMAC, id=59)
+INFO;132;0.923331911471;LAN.hostF.mac;req-52-1;Reception of (inet::EtherPhyFrame)req-52-1 started.
+** Event #133  t=0.923332671471  92% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+** Event #134  t=0.923332671471  92% completed   LAN.switch4.eth[1].mac (EtherMAC, id=161)
+** Event #135  t=0.923332771471  92% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+** Event #136  t=0.923332771471  92% completed   LAN.switch5.eth[0].mac (EtherMAC, id=178)
+** Event #137  t=0.923386051471  92% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+INFO;137;0.923386051471;LAN.switch3.eth[0].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1 successfully completed.
+** Event #138  t=0.923386051471  92% completed   LAN.switch3.eth[2].mac (EtherMAC, id=143)
+INFO;138;0.923386051471;LAN.switch3.eth[2].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1 successfully completed.
+** Event #139  t=0.923386051471  92% completed   LAN.switch5.eth[1].mac (EtherMAC, id=184)
+INFO;139;0.923386051471;LAN.switch5.eth[1].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1 successfully completed.
+** Event #140  t=0.923386151471  92% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+INFO;140;0.923386151471;LAN.switch1.eth[2].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1 successfully completed.
+INFO;140;0.923386151471;LAN.switch1.eth[2].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1 to upper layer.
+** Event #141  t=0.923386151471  92% completed   LAN.hostD.mac (EtherMAC, id=51)
+WARN;141;0.923386151471;LAN.hostD.mac;EndReception;Frame `req-52-1' not destined to us, discarding
+** Event #142  t=0.923386151471  92% completed   LAN.hostF.mac (EtherMAC, id=59)
+WARN;142;0.923386151471;LAN.hostF.mac;EndReception;Frame `req-52-1' not destined to us, discarding
+** Event #143  t=0.923386151471  92% completed   LAN.switch1.relayUnit (MACRelayUnit, id=79)
+INFO;143;0.923386151471;LAN.switch1.macTable;req-52-1;Adding entry to Address Table: 0A-AA-00-00-00-05 --> port2
+INFO;143;0.923386151471;LAN.switch1.relayUnit;req-52-1;Sending frame (inet::EtherFrameWithLLC)req-52-1 with dest address 0A-AA-00-00-00-01 to port 0
+** Event #144  t=0.923386151471  92% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+INFO;144;0.923386151471;LAN.switch1.eth[0].mac;req-52-1;Received (inet::EtherFrameWithLLC)req-52-1 from upper layer.
+INFO;144;0.923386151471;LAN.switch1.eth[0].mac;req-52-1;Transmission of (inet::EtherFrameWithLLC)req-52-1 started.
+** Event #145  t=0.923386251471  92% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+INFO;145;0.923386251471;LAN.switch0.eth[0].mac;req-52-1;Reception of (inet::EtherPhyFrame)req-52-1 started.
+** Event #146  t=0.923387011471  92% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+** Event #147  t=0.923387011471  92% completed   LAN.switch3.eth[2].mac (EtherMAC, id=143)
+** Event #148  t=0.923387011471  92% completed   LAN.switch5.eth[1].mac (EtherMAC, id=184)
+** Event #149  t=0.923387111471  92% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+** Event #150  t=0.923387111471  92% completed   LAN.hostD.mac (EtherMAC, id=51)
+** Event #151  t=0.923387111471  92% completed   LAN.hostF.mac (EtherMAC, id=59)
+** Event #152  t=0.923440391471  92% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+INFO;152;0.923440391471;LAN.switch1.eth[0].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1 successfully completed.
+** Event #153  t=0.923440491471  92% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+INFO;153;0.923440491471;LAN.switch0.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1 successfully completed.
+INFO;153;0.923440491471;LAN.switch0.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1 to upper layer.
+** Event #154  t=0.923440491471  92% completed   LAN.switch0.relayUnit (MACRelayUnit, id=62)
+INFO;154;0.923440491471;LAN.switch0.macTable;req-52-1;Adding entry to Address Table: 0A-AA-00-00-00-05 --> port0
+INFO;154;0.923440491471;LAN.switch0.relayUnit;req-52-1;Sending frame (inet::EtherFrameWithLLC)req-52-1 with dest address 0A-AA-00-00-00-01 to port 1
+** Event #155  t=0.923440491471  92% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+INFO;155;0.923440491471;LAN.switch0.eth[1].mac;req-52-1;Received (inet::EtherFrameWithLLC)req-52-1 from upper layer.
+INFO;155;0.923440491471;LAN.switch0.eth[1].mac;req-52-1;Transmission of (inet::EtherFrameWithLLC)req-52-1 started.
+** Event #156  t=0.923440591471  92% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;156;0.923440591471;LAN.hostA.mac;req-52-1;Reception of (inet::EtherPhyFrame)req-52-1 started.
+** Event #157  t=0.923441351471  92% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+** Event #158  t=0.923441451471  92% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+** Event #159  t=0.923494731471  92% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+INFO;159;0.923494731471;LAN.switch0.eth[1].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1 successfully completed.
+** Event #160  t=0.923494831471  92% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;160;0.923494831471;LAN.hostA.mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1 successfully completed.
+INFO;160;0.923494831471;LAN.hostA.mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1 to upper layer.
+** Event #161  t=0.923494831471  92% completed   LAN.hostA.llc (EtherLLC, id=38)
+INFO;161;0.923494831471;LAN.hostA.llc;req-52-1;Decapsulating frame `req-52-1', passing up contained packet `req-52-1' to higher layer 1
+** Event #162  t=0.923494831471  92% completed   LAN.hostA.srv (EtherAppSrv, id=37)
+INFO;162;0.923494831471;LAN.hostA.srv;req-52-1;Received packet `req-52-1'
+INFO;162;0.923494831471;LAN.hostA.srv;req-52-1;Send response `req-52-1-resp-0' to 0A-AA-00-00-00-05 ssap=241 dsap=240 length=1497B requestId=1
+INFO;162;0.923494831471;LAN.hostA.srv;req-52-1;Send response `req-52-1-resp-1' to 0A-AA-00-00-00-05 ssap=241 dsap=240 length=1497B requestId=1
+INFO;162;0.923494831471;LAN.hostA.srv;req-52-1;Send response `req-52-1-resp-2' to 0A-AA-00-00-00-05 ssap=241 dsap=240 length=1497B requestId=1
+INFO;162;0.923494831471;LAN.hostA.srv;req-52-1;Send response `req-52-1-resp-3' to 0A-AA-00-00-00-05 ssap=241 dsap=240 length=1497B requestId=1
+INFO;162;0.923494831471;LAN.hostA.srv;req-52-1;Send response `req-52-1-resp-4' to 0A-AA-00-00-00-05 ssap=241 dsap=240 length=1497B requestId=1
+INFO;162;0.923494831471;LAN.hostA.srv;req-52-1;Send response `req-52-1-resp-5' to 0A-AA-00-00-00-05 ssap=241 dsap=240 length=1443B requestId=1
+** Event #163  t=0.923494831471  92% completed   LAN.hostA.llc (EtherLLC, id=38)
+INFO;163;0.923494831471;LAN.hostA.llc;req-52-1-resp-0;Encapsulating higher layer packet `req-52-1-resp-0' for MAC
+INFO;163;0.923494831471;LAN.hostA.llc;req-52-1-resp-0;Sent from LAN.hostA.srv at 0.923494831471 and was created 0.923494831471
+** Event #164  t=0.923494831471  92% completed   LAN.hostA.llc (EtherLLC, id=38)
+INFO;164;0.923494831471;LAN.hostA.llc;req-52-1-resp-1;Encapsulating higher layer packet `req-52-1-resp-1' for MAC
+INFO;164;0.923494831471;LAN.hostA.llc;req-52-1-resp-1;Sent from LAN.hostA.srv at 0.923494831471 and was created 0.923494831471
+** Event #165  t=0.923494831471  92% completed   LAN.hostA.llc (EtherLLC, id=38)
+INFO;165;0.923494831471;LAN.hostA.llc;req-52-1-resp-2;Encapsulating higher layer packet `req-52-1-resp-2' for MAC
+INFO;165;0.923494831471;LAN.hostA.llc;req-52-1-resp-2;Sent from LAN.hostA.srv at 0.923494831471 and was created 0.923494831471
+** Event #166  t=0.923494831471  92% completed   LAN.hostA.llc (EtherLLC, id=38)
+INFO;166;0.923494831471;LAN.hostA.llc;req-52-1-resp-3;Encapsulating higher layer packet `req-52-1-resp-3' for MAC
+INFO;166;0.923494831471;LAN.hostA.llc;req-52-1-resp-3;Sent from LAN.hostA.srv at 0.923494831471 and was created 0.923494831471
+** Event #167  t=0.923494831471  92% completed   LAN.hostA.llc (EtherLLC, id=38)
+INFO;167;0.923494831471;LAN.hostA.llc;req-52-1-resp-4;Encapsulating higher layer packet `req-52-1-resp-4' for MAC
+INFO;167;0.923494831471;LAN.hostA.llc;req-52-1-resp-4;Sent from LAN.hostA.srv at 0.923494831471 and was created 0.923494831471
+** Event #168  t=0.923494831471  92% completed   LAN.hostA.llc (EtherLLC, id=38)
+INFO;168;0.923494831471;LAN.hostA.llc;req-52-1-resp-5;Encapsulating higher layer packet `req-52-1-resp-5' for MAC
+INFO;168;0.923494831471;LAN.hostA.llc;req-52-1-resp-5;Sent from LAN.hostA.srv at 0.923494831471 and was created 0.923494831471
+** Event #169  t=0.923494831471  92% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;169;0.923494831471;LAN.hostA.mac;req-52-1-resp-0;Received (inet::EtherFrameWithLLC)req-52-1-resp-0 from upper layer.
+** Event #170  t=0.923494831471  92% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;170;0.923494831471;LAN.hostA.mac;req-52-1-resp-1;Received (inet::EtherFrameWithLLC)req-52-1-resp-1 from upper layer.
+** Event #171  t=0.923494831471  92% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;171;0.923494831471;LAN.hostA.mac;req-52-1-resp-2;Received (inet::EtherFrameWithLLC)req-52-1-resp-2 from upper layer.
+** Event #172  t=0.923494831471  92% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;172;0.923494831471;LAN.hostA.mac;req-52-1-resp-3;Received (inet::EtherFrameWithLLC)req-52-1-resp-3 from upper layer.
+** Event #173  t=0.923494831471  92% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;173;0.923494831471;LAN.hostA.mac;req-52-1-resp-4;Received (inet::EtherFrameWithLLC)req-52-1-resp-4 from upper layer.
+** Event #174  t=0.923494831471  92% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;174;0.923494831471;LAN.hostA.mac;req-52-1-resp-5;Received (inet::EtherFrameWithLLC)req-52-1-resp-5 from upper layer.
+** Event #175  t=0.923495691471  92% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+** Event #176  t=0.923495791471  92% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;176;0.923495791471;LAN.hostA.mac;EndIFG;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-0 started.
+** Event #177  t=0.923495891471  92% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+INFO;177;0.923495891471;LAN.switch0.eth[1].mac;req-52-1-resp-0;Reception of (inet::EtherPhyFrame)req-52-1-resp-0 started.
+** Event #178  t=0.923617871471  92% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;178;0.923617871471;LAN.hostA.mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-0 successfully completed.
+** Event #179  t=0.923617971471  92% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+INFO;179;0.923617971471;LAN.switch0.eth[1].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-0 successfully completed.
+INFO;179;0.923617971471;LAN.switch0.eth[1].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-0 to upper layer.
+** Event #180  t=0.923617971471  92% completed   LAN.switch0.relayUnit (MACRelayUnit, id=62)
+INFO;180;0.923617971471;LAN.switch0.macTable;req-52-1-resp-0;Updating entry in Address Table: 0A-AA-00-00-00-01 --> port1
+INFO;180;0.923617971471;LAN.switch0.relayUnit;req-52-1-resp-0;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-0 with dest address 0A-AA-00-00-00-05 to port 0
+** Event #181  t=0.923617971471  92% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+INFO;181;0.923617971471;LAN.switch0.eth[0].mac;req-52-1-resp-0;Received (inet::EtherFrameWithLLC)req-52-1-resp-0 from upper layer.
+INFO;181;0.923617971471;LAN.switch0.eth[0].mac;req-52-1-resp-0;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-0 started.
+** Event #182  t=0.923618071471  92% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+INFO;182;0.923618071471;LAN.switch1.eth[0].mac;req-52-1-resp-0;Reception of (inet::EtherPhyFrame)req-52-1-resp-0 started.
+** Event #183  t=0.923618831471  92% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;183;0.923618831471;LAN.hostA.mac;EndIFG;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-1 started.
+** Event #184  t=0.923618931471  92% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+** Event #185  t=0.923618931471  92% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+INFO;185;0.923618931471;LAN.switch0.eth[1].mac;req-52-1-resp-1;Reception of (inet::EtherPhyFrame)req-52-1-resp-1 started.
+** Event #186  t=0.923740051471  92% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+INFO;186;0.923740051471;LAN.switch0.eth[0].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-0 successfully completed.
+** Event #187  t=0.923740151471  92% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+INFO;187;0.923740151471;LAN.switch1.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-0 successfully completed.
+INFO;187;0.923740151471;LAN.switch1.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-0 to upper layer.
+** Event #188  t=0.923740151471  92% completed   LAN.switch1.relayUnit (MACRelayUnit, id=79)
+INFO;188;0.923740151471;LAN.switch1.macTable;req-52-1-resp-0;Updating entry in Address Table: 0A-AA-00-00-00-01 --> port0
+INFO;188;0.923740151471;LAN.switch1.relayUnit;req-52-1-resp-0;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-0 with dest address 0A-AA-00-00-00-05 to port 2
+** Event #189  t=0.923740151471  92% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+INFO;189;0.923740151471;LAN.switch1.eth[2].mac;req-52-1-resp-0;Received (inet::EtherFrameWithLLC)req-52-1-resp-0 from upper layer.
+INFO;189;0.923740151471;LAN.switch1.eth[2].mac;req-52-1-resp-0;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-0 started.
+** Event #190  t=0.923740251471  92% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+INFO;190;0.923740251471;LAN.switch3.eth[0].mac;req-52-1-resp-0;Reception of (inet::EtherPhyFrame)req-52-1-resp-0 started.
+** Event #191  t=0.923740911471  92% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;191;0.923740911471;LAN.hostA.mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-1 successfully completed.
+** Event #192  t=0.923741011471  92% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+INFO;192;0.923741011471;LAN.switch0.eth[1].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-1 successfully completed.
+INFO;192;0.923741011471;LAN.switch0.eth[1].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-1 to upper layer.
+** Event #193  t=0.923741011471  92% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+** Event #194  t=0.923741011471  92% completed   LAN.switch0.relayUnit (MACRelayUnit, id=62)
+INFO;194;0.923741011471;LAN.switch0.macTable;req-52-1-resp-1;Updating entry in Address Table: 0A-AA-00-00-00-01 --> port1
+INFO;194;0.923741011471;LAN.switch0.relayUnit;req-52-1-resp-1;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-1 with dest address 0A-AA-00-00-00-05 to port 0
+** Event #195  t=0.923741011471  92% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+INFO;195;0.923741011471;LAN.switch0.eth[0].mac;req-52-1-resp-1;Received (inet::EtherFrameWithLLC)req-52-1-resp-1 from upper layer.
+INFO;195;0.923741011471;LAN.switch0.eth[0].mac;req-52-1-resp-1;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-1 started.
+** Event #196  t=0.923741111471  92% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+** Event #197  t=0.923741111471  92% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+INFO;197;0.923741111471;LAN.switch1.eth[0].mac;req-52-1-resp-1;Reception of (inet::EtherPhyFrame)req-52-1-resp-1 started.
+** Event #198  t=0.923741871471  92% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;198;0.923741871471;LAN.hostA.mac;EndIFG;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-2 started.
+** Event #199  t=0.923741971471  92% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+** Event #200  t=0.923741971471  92% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+INFO;200;0.923741971471;LAN.switch0.eth[1].mac;req-52-1-resp-2;Reception of (inet::EtherPhyFrame)req-52-1-resp-2 started.
+** Event #201  t=0.923862231471  92% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+INFO;201;0.923862231471;LAN.switch1.eth[2].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-0 successfully completed.
+** Event #202  t=0.923862331471  92% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+INFO;202;0.923862331471;LAN.switch3.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-0 successfully completed.
+INFO;202;0.923862331471;LAN.switch3.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-0 to upper layer.
+** Event #203  t=0.923862331471  92% completed   LAN.switch3.relayUnit (MACRelayUnit, id=127)
+INFO;203;0.923862331471;LAN.switch3.macTable;req-52-1-resp-0;Adding entry to Address Table: 0A-AA-00-00-00-01 --> port0
+INFO;203;0.923862331471;LAN.switch3.relayUnit;req-52-1-resp-0;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-0 with dest address 0A-AA-00-00-00-05 to port 1
+** Event #204  t=0.923862331471  92% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+INFO;204;0.923862331471;LAN.switch3.eth[1].mac;req-52-1-resp-0;Received (inet::EtherFrameWithLLC)req-52-1-resp-0 from upper layer.
+INFO;204;0.923862331471;LAN.switch3.eth[1].mac;req-52-1-resp-0;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-0 started.
+** Event #205  t=0.923862431471  92% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+INFO;205;0.923862431471;LAN.switch4.eth[0].mac;req-52-1-resp-0;Reception of (inet::EtherPhyFrame)req-52-1-resp-0 started.
+** Event #206  t=0.923863091471  92% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+INFO;206;0.923863091471;LAN.switch0.eth[0].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-1 successfully completed.
+** Event #207  t=0.923863191471  92% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+INFO;207;0.923863191471;LAN.switch1.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-1 successfully completed.
+INFO;207;0.923863191471;LAN.switch1.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-1 to upper layer.
+** Event #208  t=0.923863191471  92% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+** Event #209  t=0.923863191471  92% completed   LAN.switch1.relayUnit (MACRelayUnit, id=79)
+INFO;209;0.923863191471;LAN.switch1.macTable;req-52-1-resp-1;Updating entry in Address Table: 0A-AA-00-00-00-01 --> port0
+INFO;209;0.923863191471;LAN.switch1.relayUnit;req-52-1-resp-1;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-1 with dest address 0A-AA-00-00-00-05 to port 2
+** Event #210  t=0.923863191471  92% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+INFO;210;0.923863191471;LAN.switch1.eth[2].mac;req-52-1-resp-1;Received (inet::EtherFrameWithLLC)req-52-1-resp-1 from upper layer.
+INFO;210;0.923863191471;LAN.switch1.eth[2].mac;req-52-1-resp-1;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-1 started.
+** Event #211  t=0.923863291471  92% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+** Event #212  t=0.923863291471  92% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+INFO;212;0.923863291471;LAN.switch3.eth[0].mac;req-52-1-resp-1;Reception of (inet::EtherPhyFrame)req-52-1-resp-1 started.
+** Event #213  t=0.923863951471  92% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;213;0.923863951471;LAN.hostA.mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-2 successfully completed.
+** Event #214  t=0.923864051471  92% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+INFO;214;0.923864051471;LAN.switch0.eth[1].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-2 successfully completed.
+INFO;214;0.923864051471;LAN.switch0.eth[1].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-2 to upper layer.
+** Event #215  t=0.923864051471  92% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+** Event #216  t=0.923864051471  92% completed   LAN.switch0.relayUnit (MACRelayUnit, id=62)
+INFO;216;0.923864051471;LAN.switch0.macTable;req-52-1-resp-2;Updating entry in Address Table: 0A-AA-00-00-00-01 --> port1
+INFO;216;0.923864051471;LAN.switch0.relayUnit;req-52-1-resp-2;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-2 with dest address 0A-AA-00-00-00-05 to port 0
+** Event #217  t=0.923864051471  92% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+INFO;217;0.923864051471;LAN.switch0.eth[0].mac;req-52-1-resp-2;Received (inet::EtherFrameWithLLC)req-52-1-resp-2 from upper layer.
+INFO;217;0.923864051471;LAN.switch0.eth[0].mac;req-52-1-resp-2;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-2 started.
+** Event #218  t=0.923864151471  92% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+** Event #219  t=0.923864151471  92% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+INFO;219;0.923864151471;LAN.switch1.eth[0].mac;req-52-1-resp-2;Reception of (inet::EtherPhyFrame)req-52-1-resp-2 started.
+** Event #220  t=0.923864911471  92% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;220;0.923864911471;LAN.hostA.mac;EndIFG;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-3 started.
+** Event #221  t=0.923865011471  92% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+** Event #222  t=0.923865011471  92% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+INFO;222;0.923865011471;LAN.switch0.eth[1].mac;req-52-1-resp-3;Reception of (inet::EtherPhyFrame)req-52-1-resp-3 started.
+** Event #223  t=0.923984411471  92% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+INFO;223;0.923984411471;LAN.switch3.eth[1].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-0 successfully completed.
+** Event #224  t=0.923984511471  92% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+INFO;224;0.923984511471;LAN.switch4.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-0 successfully completed.
+INFO;224;0.923984511471;LAN.switch4.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-0 to upper layer.
+** Event #225  t=0.923984511471  92% completed   LAN.switch4.relayUnit (MACRelayUnit, id=151)
+INFO;225;0.923984511471;LAN.switch4.macTable;req-52-1-resp-0;Adding entry to Address Table: 0A-AA-00-00-00-01 --> port0
+INFO;225;0.923984511471;LAN.switch4.relayUnit;req-52-1-resp-0;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-0 with dest address 0A-AA-00-00-00-05 to port 2
+** Event #226  t=0.923984511471  92% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+INFO;226;0.923984511471;LAN.switch4.eth[2].mac;req-52-1-resp-0;Received (inet::EtherFrameWithLLC)req-52-1-resp-0 from upper layer.
+INFO;226;0.923984511471;LAN.switch4.eth[2].mac;req-52-1-resp-0;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-0 started.
+** Event #227  t=0.923984611471  92% completed   LAN.hostE.mac (EtherMAC, id=55)
+INFO;227;0.923984611471;LAN.hostE.mac;req-52-1-resp-0;Reception of (inet::EtherPhyFrame)req-52-1-resp-0 started.
+** Event #228  t=0.923985271471  92% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+INFO;228;0.923985271471;LAN.switch1.eth[2].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-1 successfully completed.
+** Event #229  t=0.923985371471  92% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+INFO;229;0.923985371471;LAN.switch3.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-1 successfully completed.
+INFO;229;0.923985371471;LAN.switch3.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-1 to upper layer.
+** Event #230  t=0.923985371471  92% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+** Event #231  t=0.923985371471  92% completed   LAN.switch3.relayUnit (MACRelayUnit, id=127)
+INFO;231;0.923985371471;LAN.switch3.macTable;req-52-1-resp-1;Updating entry in Address Table: 0A-AA-00-00-00-01 --> port0
+INFO;231;0.923985371471;LAN.switch3.relayUnit;req-52-1-resp-1;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-1 with dest address 0A-AA-00-00-00-05 to port 1
+** Event #232  t=0.923985371471  92% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+INFO;232;0.923985371471;LAN.switch3.eth[1].mac;req-52-1-resp-1;Received (inet::EtherFrameWithLLC)req-52-1-resp-1 from upper layer.
+INFO;232;0.923985371471;LAN.switch3.eth[1].mac;req-52-1-resp-1;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-1 started.
+** Event #233  t=0.923985471471  92% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+** Event #234  t=0.923985471471  92% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+INFO;234;0.923985471471;LAN.switch4.eth[0].mac;req-52-1-resp-1;Reception of (inet::EtherPhyFrame)req-52-1-resp-1 started.
+** Event #235  t=0.923986131471  92% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+INFO;235;0.923986131471;LAN.switch0.eth[0].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-2 successfully completed.
+** Event #236  t=0.923986231471  92% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+INFO;236;0.923986231471;LAN.switch1.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-2 successfully completed.
+INFO;236;0.923986231471;LAN.switch1.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-2 to upper layer.
+** Event #237  t=0.923986231471  92% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+** Event #238  t=0.923986231471  92% completed   LAN.switch1.relayUnit (MACRelayUnit, id=79)
+INFO;238;0.923986231471;LAN.switch1.macTable;req-52-1-resp-2;Updating entry in Address Table: 0A-AA-00-00-00-01 --> port0
+INFO;238;0.923986231471;LAN.switch1.relayUnit;req-52-1-resp-2;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-2 with dest address 0A-AA-00-00-00-05 to port 2
+** Event #239  t=0.923986231471  92% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+INFO;239;0.923986231471;LAN.switch1.eth[2].mac;req-52-1-resp-2;Received (inet::EtherFrameWithLLC)req-52-1-resp-2 from upper layer.
+INFO;239;0.923986231471;LAN.switch1.eth[2].mac;req-52-1-resp-2;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-2 started.
+** Event #240  t=0.923986331471  92% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+** Event #241  t=0.923986331471  92% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+INFO;241;0.923986331471;LAN.switch3.eth[0].mac;req-52-1-resp-2;Reception of (inet::EtherPhyFrame)req-52-1-resp-2 started.
+** Event #242  t=0.923986991471  92% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;242;0.923986991471;LAN.hostA.mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-3 successfully completed.
+** Event #243  t=0.923987091471  92% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+INFO;243;0.923987091471;LAN.switch0.eth[1].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-3 successfully completed.
+INFO;243;0.923987091471;LAN.switch0.eth[1].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-3 to upper layer.
+** Event #244  t=0.923987091471  92% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+** Event #245  t=0.923987091471  92% completed   LAN.switch0.relayUnit (MACRelayUnit, id=62)
+INFO;245;0.923987091471;LAN.switch0.macTable;req-52-1-resp-3;Updating entry in Address Table: 0A-AA-00-00-00-01 --> port1
+INFO;245;0.923987091471;LAN.switch0.relayUnit;req-52-1-resp-3;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-3 with dest address 0A-AA-00-00-00-05 to port 0
+** Event #246  t=0.923987091471  92% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+INFO;246;0.923987091471;LAN.switch0.eth[0].mac;req-52-1-resp-3;Received (inet::EtherFrameWithLLC)req-52-1-resp-3 from upper layer.
+INFO;246;0.923987091471;LAN.switch0.eth[0].mac;req-52-1-resp-3;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-3 started.
+** Event #247  t=0.923987191471  92% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+** Event #248  t=0.923987191471  92% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+INFO;248;0.923987191471;LAN.switch1.eth[0].mac;req-52-1-resp-3;Reception of (inet::EtherPhyFrame)req-52-1-resp-3 started.
+** Event #249  t=0.923987951471  92% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;249;0.923987951471;LAN.hostA.mac;EndIFG;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-4 started.
+** Event #250  t=0.923988051471  92% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+** Event #251  t=0.923988051471  92% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+INFO;251;0.923988051471;LAN.switch0.eth[1].mac;req-52-1-resp-4;Reception of (inet::EtherPhyFrame)req-52-1-resp-4 started.
+** Event #252  t=0.924106591471  92% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+INFO;252;0.924106591471;LAN.switch4.eth[2].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-0 successfully completed.
+** Event #253  t=0.924106691471  92% completed   LAN.hostE.mac (EtherMAC, id=55)
+INFO;253;0.924106691471;LAN.hostE.mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-0 successfully completed.
+INFO;253;0.924106691471;LAN.hostE.mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-0 to upper layer.
+** Event #254  t=0.924106691471  92% completed   LAN.hostE.llc (EtherLLC, id=54)
+INFO;254;0.924106691471;LAN.hostE.llc;req-52-1-resp-0;Decapsulating frame `req-52-1-resp-0', passing up contained packet `req-52-1-resp-0' to higher layer 0
+** Event #255  t=0.924106691471  92% completed   LAN.hostE.cli (EtherAppCli, id=52)
+INFO;255;0.924106691471;LAN.hostE.cli;req-52-1-resp-0;Received packet `req-52-1-resp-0'
+** Event #256  t=0.924107451471  92% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+INFO;256;0.924107451471;LAN.switch3.eth[1].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-1 successfully completed.
+** Event #257  t=0.924107551471  92% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+INFO;257;0.924107551471;LAN.switch4.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-1 successfully completed.
+INFO;257;0.924107551471;LAN.switch4.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-1 to upper layer.
+** Event #258  t=0.924107551471  92% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+** Event #259  t=0.924107551471  92% completed   LAN.switch4.relayUnit (MACRelayUnit, id=151)
+INFO;259;0.924107551471;LAN.switch4.macTable;req-52-1-resp-1;Updating entry in Address Table: 0A-AA-00-00-00-01 --> port0
+INFO;259;0.924107551471;LAN.switch4.relayUnit;req-52-1-resp-1;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-1 with dest address 0A-AA-00-00-00-05 to port 2
+** Event #260  t=0.924107551471  92% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+INFO;260;0.924107551471;LAN.switch4.eth[2].mac;req-52-1-resp-1;Received (inet::EtherFrameWithLLC)req-52-1-resp-1 from upper layer.
+INFO;260;0.924107551471;LAN.switch4.eth[2].mac;req-52-1-resp-1;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-1 started.
+** Event #261  t=0.924107651471  92% completed   LAN.hostE.mac (EtherMAC, id=55)
+** Event #262  t=0.924107651471  92% completed   LAN.hostE.mac (EtherMAC, id=55)
+INFO;262;0.924107651471;LAN.hostE.mac;req-52-1-resp-1;Reception of (inet::EtherPhyFrame)req-52-1-resp-1 started.
+** Event #263  t=0.924108311471  92% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+INFO;263;0.924108311471;LAN.switch1.eth[2].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-2 successfully completed.
+** Event #264  t=0.924108411471  92% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+INFO;264;0.924108411471;LAN.switch3.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-2 successfully completed.
+INFO;264;0.924108411471;LAN.switch3.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-2 to upper layer.
+** Event #265  t=0.924108411471  92% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+** Event #266  t=0.924108411471  92% completed   LAN.switch3.relayUnit (MACRelayUnit, id=127)
+INFO;266;0.924108411471;LAN.switch3.macTable;req-52-1-resp-2;Updating entry in Address Table: 0A-AA-00-00-00-01 --> port0
+INFO;266;0.924108411471;LAN.switch3.relayUnit;req-52-1-resp-2;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-2 with dest address 0A-AA-00-00-00-05 to port 1
+** Event #267  t=0.924108411471  92% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+INFO;267;0.924108411471;LAN.switch3.eth[1].mac;req-52-1-resp-2;Received (inet::EtherFrameWithLLC)req-52-1-resp-2 from upper layer.
+INFO;267;0.924108411471;LAN.switch3.eth[1].mac;req-52-1-resp-2;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-2 started.
+** Event #268  t=0.924108511471  92% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+** Event #269  t=0.924108511471  92% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+INFO;269;0.924108511471;LAN.switch4.eth[0].mac;req-52-1-resp-2;Reception of (inet::EtherPhyFrame)req-52-1-resp-2 started.
+** Event #270  t=0.924109171471  92% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+INFO;270;0.924109171471;LAN.switch0.eth[0].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-3 successfully completed.
+** Event #271  t=0.924109271471  92% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+INFO;271;0.924109271471;LAN.switch1.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-3 successfully completed.
+INFO;271;0.924109271471;LAN.switch1.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-3 to upper layer.
+** Event #272  t=0.924109271471  92% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+** Event #273  t=0.924109271471  92% completed   LAN.switch1.relayUnit (MACRelayUnit, id=79)
+INFO;273;0.924109271471;LAN.switch1.macTable;req-52-1-resp-3;Updating entry in Address Table: 0A-AA-00-00-00-01 --> port0
+INFO;273;0.924109271471;LAN.switch1.relayUnit;req-52-1-resp-3;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-3 with dest address 0A-AA-00-00-00-05 to port 2
+** Event #274  t=0.924109271471  92% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+INFO;274;0.924109271471;LAN.switch1.eth[2].mac;req-52-1-resp-3;Received (inet::EtherFrameWithLLC)req-52-1-resp-3 from upper layer.
+INFO;274;0.924109271471;LAN.switch1.eth[2].mac;req-52-1-resp-3;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-3 started.
+** Event #275  t=0.924109371471  92% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+** Event #276  t=0.924109371471  92% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+INFO;276;0.924109371471;LAN.switch3.eth[0].mac;req-52-1-resp-3;Reception of (inet::EtherPhyFrame)req-52-1-resp-3 started.
+** Event #277  t=0.924110031471  92% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;277;0.924110031471;LAN.hostA.mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-4 successfully completed.
+** Event #278  t=0.924110131471  92% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+INFO;278;0.924110131471;LAN.switch0.eth[1].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-4 successfully completed.
+INFO;278;0.924110131471;LAN.switch0.eth[1].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-4 to upper layer.
+** Event #279  t=0.924110131471  92% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+** Event #280  t=0.924110131471  92% completed   LAN.switch0.relayUnit (MACRelayUnit, id=62)
+INFO;280;0.924110131471;LAN.switch0.macTable;req-52-1-resp-4;Updating entry in Address Table: 0A-AA-00-00-00-01 --> port1
+INFO;280;0.924110131471;LAN.switch0.relayUnit;req-52-1-resp-4;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-4 with dest address 0A-AA-00-00-00-05 to port 0
+** Event #281  t=0.924110131471  92% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+INFO;281;0.924110131471;LAN.switch0.eth[0].mac;req-52-1-resp-4;Received (inet::EtherFrameWithLLC)req-52-1-resp-4 from upper layer.
+INFO;281;0.924110131471;LAN.switch0.eth[0].mac;req-52-1-resp-4;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-4 started.
+** Event #282  t=0.924110231471  92% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+** Event #283  t=0.924110231471  92% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+INFO;283;0.924110231471;LAN.switch1.eth[0].mac;req-52-1-resp-4;Reception of (inet::EtherPhyFrame)req-52-1-resp-4 started.
+** Event #284  t=0.924110991471  92% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;284;0.924110991471;LAN.hostA.mac;EndIFG;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-5 started.
+** Event #285  t=0.924111091471  92% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+** Event #286  t=0.924111091471  92% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+INFO;286;0.924111091471;LAN.switch0.eth[1].mac;req-52-1-resp-5;Reception of (inet::EtherPhyFrame)req-52-1-resp-5 started.
+** Event #287  t=0.924228751471  92% completed   LAN.hostA.mac (EtherMAC, id=39)
+INFO;287;0.924228751471;LAN.hostA.mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-5 successfully completed.
+** Event #288  t=0.924228851471  92% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+INFO;288;0.924228851471;LAN.switch0.eth[1].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-5 successfully completed.
+INFO;288;0.924228851471;LAN.switch0.eth[1].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-5 to upper layer.
+** Event #289  t=0.924228851471  92% completed   LAN.switch0.relayUnit (MACRelayUnit, id=62)
+INFO;289;0.924228851471;LAN.switch0.macTable;req-52-1-resp-5;Updating entry in Address Table: 0A-AA-00-00-00-01 --> port1
+INFO;289;0.924228851471;LAN.switch0.relayUnit;req-52-1-resp-5;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-5 with dest address 0A-AA-00-00-00-05 to port 0
+** Event #290  t=0.924228851471  92% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+INFO;290;0.924228851471;LAN.switch0.eth[0].mac;req-52-1-resp-5;Received (inet::EtherFrameWithLLC)req-52-1-resp-5 from upper layer.
+** Event #291  t=0.924229631471  92% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+INFO;291;0.924229631471;LAN.switch4.eth[2].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-1 successfully completed.
+** Event #292  t=0.924229711471  92% completed   LAN.hostA.mac (EtherMAC, id=39)
+** Event #293  t=0.924229731471  92% completed   LAN.hostE.mac (EtherMAC, id=55)
+INFO;293;0.924229731471;LAN.hostE.mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-1 successfully completed.
+INFO;293;0.924229731471;LAN.hostE.mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-1 to upper layer.
+** Event #294  t=0.924229731471  92% completed   LAN.hostE.llc (EtherLLC, id=54)
+INFO;294;0.924229731471;LAN.hostE.llc;req-52-1-resp-1;Decapsulating frame `req-52-1-resp-1', passing up contained packet `req-52-1-resp-1' to higher layer 0
+** Event #295  t=0.924229731471  92% completed   LAN.hostE.cli (EtherAppCli, id=52)
+INFO;295;0.924229731471;LAN.hostE.cli;req-52-1-resp-1;Received packet `req-52-1-resp-1'
+** Event #296  t=0.924229811471  92% completed   LAN.switch0.eth[1].mac (EtherMAC, id=71)
+** Event #297  t=0.924230491471  92% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+INFO;297;0.924230491471;LAN.switch3.eth[1].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-2 successfully completed.
+** Event #298  t=0.924230591471  92% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+INFO;298;0.924230591471;LAN.switch4.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-2 successfully completed.
+INFO;298;0.924230591471;LAN.switch4.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-2 to upper layer.
+** Event #299  t=0.924230591471  92% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+** Event #300  t=0.924230591471  92% completed   LAN.switch4.relayUnit (MACRelayUnit, id=151)
+INFO;300;0.924230591471;LAN.switch4.macTable;req-52-1-resp-2;Updating entry in Address Table: 0A-AA-00-00-00-01 --> port0
+INFO;300;0.924230591471;LAN.switch4.relayUnit;req-52-1-resp-2;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-2 with dest address 0A-AA-00-00-00-05 to port 2
+** Event #301  t=0.924230591471  92% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+INFO;301;0.924230591471;LAN.switch4.eth[2].mac;req-52-1-resp-2;Received (inet::EtherFrameWithLLC)req-52-1-resp-2 from upper layer.
+INFO;301;0.924230591471;LAN.switch4.eth[2].mac;req-52-1-resp-2;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-2 started.
+** Event #302  t=0.924230691471  92% completed   LAN.hostE.mac (EtherMAC, id=55)
+** Event #303  t=0.924230691471  92% completed   LAN.hostE.mac (EtherMAC, id=55)
+INFO;303;0.924230691471;LAN.hostE.mac;req-52-1-resp-2;Reception of (inet::EtherPhyFrame)req-52-1-resp-2 started.
+** Event #304  t=0.924231351471  92% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+INFO;304;0.924231351471;LAN.switch1.eth[2].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-3 successfully completed.
+** Event #305  t=0.924231451471  92% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+INFO;305;0.924231451471;LAN.switch3.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-3 successfully completed.
+INFO;305;0.924231451471;LAN.switch3.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-3 to upper layer.
+** Event #306  t=0.924231451471  92% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+** Event #307  t=0.924231451471  92% completed   LAN.switch3.relayUnit (MACRelayUnit, id=127)
+INFO;307;0.924231451471;LAN.switch3.macTable;req-52-1-resp-3;Updating entry in Address Table: 0A-AA-00-00-00-01 --> port0
+INFO;307;0.924231451471;LAN.switch3.relayUnit;req-52-1-resp-3;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-3 with dest address 0A-AA-00-00-00-05 to port 1
+** Event #308  t=0.924231451471  92% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+INFO;308;0.924231451471;LAN.switch3.eth[1].mac;req-52-1-resp-3;Received (inet::EtherFrameWithLLC)req-52-1-resp-3 from upper layer.
+INFO;308;0.924231451471;LAN.switch3.eth[1].mac;req-52-1-resp-3;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-3 started.
+** Event #309  t=0.924231551471  92% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+** Event #310  t=0.924231551471  92% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+INFO;310;0.924231551471;LAN.switch4.eth[0].mac;req-52-1-resp-3;Reception of (inet::EtherPhyFrame)req-52-1-resp-3 started.
+** Event #311  t=0.924232211471  92% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+INFO;311;0.924232211471;LAN.switch0.eth[0].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-4 successfully completed.
+** Event #312  t=0.924232311471  92% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+INFO;312;0.924232311471;LAN.switch1.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-4 successfully completed.
+INFO;312;0.924232311471;LAN.switch1.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-4 to upper layer.
+** Event #313  t=0.924232311471  92% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+** Event #314  t=0.924232311471  92% completed   LAN.switch1.relayUnit (MACRelayUnit, id=79)
+INFO;314;0.924232311471;LAN.switch1.macTable;req-52-1-resp-4;Updating entry in Address Table: 0A-AA-00-00-00-01 --> port0
+INFO;314;0.924232311471;LAN.switch1.relayUnit;req-52-1-resp-4;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-4 with dest address 0A-AA-00-00-00-05 to port 2
+** Event #315  t=0.924232311471  92% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+INFO;315;0.924232311471;LAN.switch1.eth[2].mac;req-52-1-resp-4;Received (inet::EtherFrameWithLLC)req-52-1-resp-4 from upper layer.
+INFO;315;0.924232311471;LAN.switch1.eth[2].mac;req-52-1-resp-4;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-4 started.
+** Event #316  t=0.924232411471  92% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+** Event #317  t=0.924232411471  92% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+INFO;317;0.924232411471;LAN.switch3.eth[0].mac;req-52-1-resp-4;Reception of (inet::EtherPhyFrame)req-52-1-resp-4 started.
+** Event #318  t=0.924233171471  92% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+INFO;318;0.924233171471;LAN.switch0.eth[0].mac;EndIFG;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-5 started.
+** Event #319  t=0.924233271471  92% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+** Event #320  t=0.924233271471  92% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+INFO;320;0.924233271471;LAN.switch1.eth[0].mac;req-52-1-resp-5;Reception of (inet::EtherPhyFrame)req-52-1-resp-5 started.
+** Event #321  t=0.924350931471  92% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+INFO;321;0.924350931471;LAN.switch0.eth[0].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-5 successfully completed.
+** Event #322  t=0.924351031471  92% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+INFO;322;0.924351031471;LAN.switch1.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-5 successfully completed.
+INFO;322;0.924351031471;LAN.switch1.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-5 to upper layer.
+** Event #323  t=0.924351031471  92% completed   LAN.switch1.relayUnit (MACRelayUnit, id=79)
+INFO;323;0.924351031471;LAN.switch1.macTable;req-52-1-resp-5;Updating entry in Address Table: 0A-AA-00-00-00-01 --> port0
+INFO;323;0.924351031471;LAN.switch1.relayUnit;req-52-1-resp-5;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-5 with dest address 0A-AA-00-00-00-05 to port 2
+** Event #324  t=0.924351031471  92% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+INFO;324;0.924351031471;LAN.switch1.eth[2].mac;req-52-1-resp-5;Received (inet::EtherFrameWithLLC)req-52-1-resp-5 from upper layer.
+** Event #325  t=0.924351891471  92% completed   LAN.switch0.eth[0].mac (EtherMAC, id=65)
+** Event #326  t=0.924351991471  92% completed   LAN.switch1.eth[0].mac (EtherMAC, id=84)
+** Event #327  t=0.924352671471  92% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+INFO;327;0.924352671471;LAN.switch4.eth[2].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-2 successfully completed.
+** Event #328  t=0.924352771471  92% completed   LAN.hostE.mac (EtherMAC, id=55)
+INFO;328;0.924352771471;LAN.hostE.mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-2 successfully completed.
+INFO;328;0.924352771471;LAN.hostE.mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-2 to upper layer.
+** Event #329  t=0.924352771471  92% completed   LAN.hostE.llc (EtherLLC, id=54)
+INFO;329;0.924352771471;LAN.hostE.llc;req-52-1-resp-2;Decapsulating frame `req-52-1-resp-2', passing up contained packet `req-52-1-resp-2' to higher layer 0
+** Event #330  t=0.924352771471  92% completed   LAN.hostE.cli (EtherAppCli, id=52)
+INFO;330;0.924352771471;LAN.hostE.cli;req-52-1-resp-2;Received packet `req-52-1-resp-2'
+** Event #331  t=0.924353531471  92% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+INFO;331;0.924353531471;LAN.switch3.eth[1].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-3 successfully completed.
+** Event #332  t=0.924353631471  92% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+INFO;332;0.924353631471;LAN.switch4.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-3 successfully completed.
+INFO;332;0.924353631471;LAN.switch4.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-3 to upper layer.
+** Event #333  t=0.924353631471  92% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+** Event #334  t=0.924353631471  92% completed   LAN.switch4.relayUnit (MACRelayUnit, id=151)
+INFO;334;0.924353631471;LAN.switch4.macTable;req-52-1-resp-3;Updating entry in Address Table: 0A-AA-00-00-00-01 --> port0
+INFO;334;0.924353631471;LAN.switch4.relayUnit;req-52-1-resp-3;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-3 with dest address 0A-AA-00-00-00-05 to port 2
+** Event #335  t=0.924353631471  92% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+INFO;335;0.924353631471;LAN.switch4.eth[2].mac;req-52-1-resp-3;Received (inet::EtherFrameWithLLC)req-52-1-resp-3 from upper layer.
+INFO;335;0.924353631471;LAN.switch4.eth[2].mac;req-52-1-resp-3;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-3 started.
+** Event #336  t=0.924353731471  92% completed   LAN.hostE.mac (EtherMAC, id=55)
+** Event #337  t=0.924353731471  92% completed   LAN.hostE.mac (EtherMAC, id=55)
+INFO;337;0.924353731471;LAN.hostE.mac;req-52-1-resp-3;Reception of (inet::EtherPhyFrame)req-52-1-resp-3 started.
+** Event #338  t=0.924354391471  92% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+INFO;338;0.924354391471;LAN.switch1.eth[2].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-4 successfully completed.
+** Event #339  t=0.924354491471  92% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+INFO;339;0.924354491471;LAN.switch3.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-4 successfully completed.
+INFO;339;0.924354491471;LAN.switch3.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-4 to upper layer.
+** Event #340  t=0.924354491471  92% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+** Event #341  t=0.924354491471  92% completed   LAN.switch3.relayUnit (MACRelayUnit, id=127)
+INFO;341;0.924354491471;LAN.switch3.macTable;req-52-1-resp-4;Updating entry in Address Table: 0A-AA-00-00-00-01 --> port0
+INFO;341;0.924354491471;LAN.switch3.relayUnit;req-52-1-resp-4;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-4 with dest address 0A-AA-00-00-00-05 to port 1
+** Event #342  t=0.924354491471  92% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+INFO;342;0.924354491471;LAN.switch3.eth[1].mac;req-52-1-resp-4;Received (inet::EtherFrameWithLLC)req-52-1-resp-4 from upper layer.
+INFO;342;0.924354491471;LAN.switch3.eth[1].mac;req-52-1-resp-4;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-4 started.
+** Event #343  t=0.924354591471  92% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+** Event #344  t=0.924354591471  92% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+INFO;344;0.924354591471;LAN.switch4.eth[0].mac;req-52-1-resp-4;Reception of (inet::EtherPhyFrame)req-52-1-resp-4 started.
+** Event #345  t=0.924355351471  92% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+INFO;345;0.924355351471;LAN.switch1.eth[2].mac;EndIFG;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-5 started.
+** Event #346  t=0.924355451471  92% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+** Event #347  t=0.924355451471  92% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+INFO;347;0.924355451471;LAN.switch3.eth[0].mac;req-52-1-resp-5;Reception of (inet::EtherPhyFrame)req-52-1-resp-5 started.
+** Event #348  t=0.924473111471  92% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+INFO;348;0.924473111471;LAN.switch1.eth[2].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-5 successfully completed.
+** Event #349  t=0.924473211471  92% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+INFO;349;0.924473211471;LAN.switch3.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-5 successfully completed.
+INFO;349;0.924473211471;LAN.switch3.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-5 to upper layer.
+** Event #350  t=0.924473211471  92% completed   LAN.switch3.relayUnit (MACRelayUnit, id=127)
+INFO;350;0.924473211471;LAN.switch3.macTable;req-52-1-resp-5;Updating entry in Address Table: 0A-AA-00-00-00-01 --> port0
+INFO;350;0.924473211471;LAN.switch3.relayUnit;req-52-1-resp-5;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-5 with dest address 0A-AA-00-00-00-05 to port 1
+** Event #351  t=0.924473211471  92% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+INFO;351;0.924473211471;LAN.switch3.eth[1].mac;req-52-1-resp-5;Received (inet::EtherFrameWithLLC)req-52-1-resp-5 from upper layer.
+** Event #352  t=0.924474071471  92% completed   LAN.switch1.eth[2].mac (EtherMAC, id=96)
+** Event #353  t=0.924474171471  92% completed   LAN.switch3.eth[0].mac (EtherMAC, id=131)
+** Event #354  t=0.924475711471  92% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+INFO;354;0.924475711471;LAN.switch4.eth[2].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-3 successfully completed.
+** Event #355  t=0.924475811471  92% completed   LAN.hostE.mac (EtherMAC, id=55)
+INFO;355;0.924475811471;LAN.hostE.mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-3 successfully completed.
+INFO;355;0.924475811471;LAN.hostE.mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-3 to upper layer.
+** Event #356  t=0.924475811471  92% completed   LAN.hostE.llc (EtherLLC, id=54)
+INFO;356;0.924475811471;LAN.hostE.llc;req-52-1-resp-3;Decapsulating frame `req-52-1-resp-3', passing up contained packet `req-52-1-resp-3' to higher layer 0
+** Event #357  t=0.924475811471  92% completed   LAN.hostE.cli (EtherAppCli, id=52)
+INFO;357;0.924475811471;LAN.hostE.cli;req-52-1-resp-3;Received packet `req-52-1-resp-3'
+** Event #358  t=0.924476571471  92% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+INFO;358;0.924476571471;LAN.switch3.eth[1].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-4 successfully completed.
+** Event #359  t=0.924476671471  92% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+INFO;359;0.924476671471;LAN.switch4.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-4 successfully completed.
+INFO;359;0.924476671471;LAN.switch4.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-4 to upper layer.
+** Event #360  t=0.924476671471  92% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+** Event #361  t=0.924476671471  92% completed   LAN.switch4.relayUnit (MACRelayUnit, id=151)
+INFO;361;0.924476671471;LAN.switch4.macTable;req-52-1-resp-4;Updating entry in Address Table: 0A-AA-00-00-00-01 --> port0
+INFO;361;0.924476671471;LAN.switch4.relayUnit;req-52-1-resp-4;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-4 with dest address 0A-AA-00-00-00-05 to port 2
+** Event #362  t=0.924476671471  92% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+INFO;362;0.924476671471;LAN.switch4.eth[2].mac;req-52-1-resp-4;Received (inet::EtherFrameWithLLC)req-52-1-resp-4 from upper layer.
+INFO;362;0.924476671471;LAN.switch4.eth[2].mac;req-52-1-resp-4;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-4 started.
+** Event #363  t=0.924476771471  92% completed   LAN.hostE.mac (EtherMAC, id=55)
+** Event #364  t=0.924476771471  92% completed   LAN.hostE.mac (EtherMAC, id=55)
+INFO;364;0.924476771471;LAN.hostE.mac;req-52-1-resp-4;Reception of (inet::EtherPhyFrame)req-52-1-resp-4 started.
+** Event #365  t=0.924477531471  92% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+INFO;365;0.924477531471;LAN.switch3.eth[1].mac;EndIFG;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-5 started.
+** Event #366  t=0.924477631471  92% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+** Event #367  t=0.924477631471  92% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+INFO;367;0.924477631471;LAN.switch4.eth[0].mac;req-52-1-resp-5;Reception of (inet::EtherPhyFrame)req-52-1-resp-5 started.
+** Event #368  t=0.924595291471  92% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+INFO;368;0.924595291471;LAN.switch3.eth[1].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-5 successfully completed.
+** Event #369  t=0.924595391471  92% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+INFO;369;0.924595391471;LAN.switch4.eth[0].mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-5 successfully completed.
+INFO;369;0.924595391471;LAN.switch4.eth[0].mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-5 to upper layer.
+** Event #370  t=0.924595391471  92% completed   LAN.switch4.relayUnit (MACRelayUnit, id=151)
+INFO;370;0.924595391471;LAN.switch4.macTable;req-52-1-resp-5;Updating entry in Address Table: 0A-AA-00-00-00-01 --> port0
+INFO;370;0.924595391471;LAN.switch4.relayUnit;req-52-1-resp-5;Sending frame (inet::EtherFrameWithLLC)req-52-1-resp-5 with dest address 0A-AA-00-00-00-05 to port 2
+** Event #371  t=0.924595391471  92% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+INFO;371;0.924595391471;LAN.switch4.eth[2].mac;req-52-1-resp-5;Received (inet::EtherFrameWithLLC)req-52-1-resp-5 from upper layer.
+** Event #372  t=0.924596251471  92% completed   LAN.switch3.eth[1].mac (EtherMAC, id=137)
+** Event #373  t=0.924596351471  92% completed   LAN.switch4.eth[0].mac (EtherMAC, id=155)
+** Event #374  t=0.924598751471  92% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+INFO;374;0.924598751471;LAN.switch4.eth[2].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-4 successfully completed.
+** Event #375  t=0.924598851471  92% completed   LAN.hostE.mac (EtherMAC, id=55)
+INFO;375;0.924598851471;LAN.hostE.mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-4 successfully completed.
+INFO;375;0.924598851471;LAN.hostE.mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-4 to upper layer.
+** Event #376  t=0.924598851471  92% completed   LAN.hostE.llc (EtherLLC, id=54)
+INFO;376;0.924598851471;LAN.hostE.llc;req-52-1-resp-4;Decapsulating frame `req-52-1-resp-4', passing up contained packet `req-52-1-resp-4' to higher layer 0
+** Event #377  t=0.924598851471  92% completed   LAN.hostE.cli (EtherAppCli, id=52)
+INFO;377;0.924598851471;LAN.hostE.cli;req-52-1-resp-4;Received packet `req-52-1-resp-4'
+** Event #378  t=0.924599711471  92% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+INFO;378;0.924599711471;LAN.switch4.eth[2].mac;EndIFG;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-5 started.
+** Event #379  t=0.924599811471  92% completed   LAN.hostE.mac (EtherMAC, id=55)
+** Event #380  t=0.924599811471  92% completed   LAN.hostE.mac (EtherMAC, id=55)
+INFO;380;0.924599811471;LAN.hostE.mac;req-52-1-resp-5;Reception of (inet::EtherPhyFrame)req-52-1-resp-5 started.
+** Event #381  t=0.924717471471  92% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+INFO;381;0.924717471471;LAN.switch4.eth[2].mac;EndTransmission;Transmission of (inet::EtherFrameWithLLC)req-52-1-resp-5 successfully completed.
+** Event #382  t=0.924717571471  92% completed   LAN.hostE.mac (EtherMAC, id=55)
+INFO;382;0.924717571471;LAN.hostE.mac;EndReception;Reception of (inet::EtherFrameWithLLC)req-52-1-resp-5 successfully completed.
+INFO;382;0.924717571471;LAN.hostE.mac;EndReception;Sending (inet::EtherFrameWithLLC)req-52-1-resp-5 to upper layer.
+** Event #383  t=0.924717571471  92% completed   LAN.hostE.llc (EtherLLC, id=54)
+INFO;383;0.924717571471;LAN.hostE.llc;req-52-1-resp-5;Decapsulating frame `req-52-1-resp-5', passing up contained packet `req-52-1-resp-5' to higher layer 0
+** Event #384  t=0.924717571471  92% completed   LAN.hostE.cli (EtherAppCli, id=52)
+INFO;384;0.924717571471;LAN.hostE.cli;req-52-1-resp-5;Received packet `req-52-1-resp-5'
+** Event #385  t=0.924718431471  92% completed   LAN.switch4.eth[2].mac (EtherMAC, id=167)
+** Event #386  t=0.924718531471  92% completed   LAN.hostE.mac (EtherMAC, id=55)
+** Event #387  t=1  100% completed   
+
+<!> Simulation time limit reached -- at t=1s, event #387
+
+Calling finish() at end of Run #0...
